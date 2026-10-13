@@ -7121,6 +7121,13 @@
       ]
     },
     {
+      "tagId": "friendsandfoes:on_citadel_maps",
+      "displayName": "#On Citadel Maps",
+      "structureIds": [
+        "friendsandfoes:citadel"
+      ]
+    },
+    {
       "tagId": "unusualend:on_city_explorer_maps",
       "displayName": "#On City Explorer Maps",
       "structureIds": [

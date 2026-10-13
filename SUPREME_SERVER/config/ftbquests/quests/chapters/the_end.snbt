@@ -42,6 +42,7 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["6E816544DF180D2B"]
 			description: [
 				"Goal: Enter an End City."
 				""
@@ -63,10 +64,11 @@
 				type: "advancement"
 			}]
 			title: "Find an End City"
-			x: 3.0d
+			x: 2.4d
 			y: 0.0d
 		}
 		{
+			dependencies: ["6C9FE241B961F926"]
 			description: [
 				"Goal: Defeat the Ender Dragon."
 				""
@@ -96,10 +98,11 @@
 				type: "advancement"
 			}]
 			title: "Kill the Ender Dragon"
-			x: 6.0d
+			x: 4.8d
 			y: 0.0d
 		}
 		{
+			dependencies: ["340F20F1678DC72D"]
 			description: [
 				"Goal: Obtain Elytra."
 				""
@@ -132,10 +135,11 @@
 				type: "item"
 			}]
 			title: "Get Elytra"
-			x: 9.0d
+			x: 7.2d
 			y: 0.0d
 		}
 		{
+			dependencies: ["340F20F1678DC72D"]
 			description: [
 				"Goal: Obtain Shulker Shells."
 				""
@@ -157,10 +161,11 @@
 				type: "item"
 			}]
 			title: "Get Shulker Shells"
-			x: 12.0d
+			x: 9.6d
 			y: 0.0d
 		}
 		{
+			dependencies: ["7B8C5FD0E23324F8"]
 			description: [
 				"Goal: Craft any Shulker Box."
 				""
@@ -181,7 +186,7 @@
 				type: "item"
 			}]
 			title: "Craft a Shulker Box"
-			x: 15.0d
+			x: 12.0d
 			y: 0.0d
 		}
 		{
@@ -264,10 +269,11 @@
 				}
 			]
 			title: "Loot End City Gear"
-			x: 18.0d
+			x: 14.4d
 			y: 0.0d
 		}
 		{
+			dependencies: ["6E816544DF180D2B"]
 			description: [
 				"Goal: Respawn the Ender Dragon."
 				""
@@ -288,7 +294,7 @@
 				type: "advancement"
 			}]
 			title: "Respawn the Dragon"
-			x: 21.0d
+			x: 16.8d
 			y: 0.0d
 		}
 	]

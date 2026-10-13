@@ -30,4 +30,32 @@ caravel_step_4 = 150
 caravel_step_5 = 140
 enable_block_collisions = false
 enable_simplified_ship_management = false
+#Range: 0 ~ 100000000
+galleon_step_1 = 500
+#Range: 0 ~ 100000000
+galleon_step_2 = 3000
+#Range: 0 ~ 100000000
+galleon_step_3 = 150
+#Range: 0 ~ 100000000
+galleon_step_4 = 500
+#Range: 0 ~ 100000000
+galleon_step_5 = 450
+creative_oneshot = false
+storm_boats = false
+#Range: 0 ~ 1000
+storm_severity = 1
+#Range: 0 ~ 100
+ship_sound = 100
+enable_walkable_deck = true
+enable_lod = true
+#Range: 1 ~ 10000
+lod_module = 84
+#Range: 0 ~ 100000000
+sailboat_base_ram_dmg_hp = 8
+#Range: 0 ~ 100000000
+cog_base_ram_dmg_hp = 30
+#Range: 0 ~ 100000000
+caravel_base_ram_dmg_hp = 60
+#Range: 0 ~ 100000000
+galleon_base_ram_dmg_hp = 120
 

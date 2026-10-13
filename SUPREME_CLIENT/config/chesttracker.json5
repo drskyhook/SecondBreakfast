@@ -17,7 +17,7 @@
 		}
 	},
 	rendering: {
-		name_range: 12
+		name_range: 17
 	},
 	debug: {
 		show_dev_hud: false,

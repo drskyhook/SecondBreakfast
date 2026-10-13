@@ -40,6 +40,7 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["59B14D1349E91015"]
 			description: [
 				"Goal: Barter with a Piglin."
 				""
@@ -61,10 +62,11 @@
 				type: "advancement"
 			}]
 			title: "Piglin Barter"
-			x: 3.0d
+			x: 2.4d
 			y: 0.0d
 		}
 		{
+			dependencies: ["59B14D1349E91015"]
 			description: ["Goal: Discover a Nether Fortress."]
 			icon: "minecraft:nether_bricks"
 			id: "1CFF4ADC515CE14E"
@@ -82,10 +84,11 @@
 				type: "advancement"
 			}]
 			title: "Find a Nether Fortress"
-			x: 6.0d
+			x: 4.8d
 			y: 0.0d
 		}
 		{
+			dependencies: ["1CFF4ADC515CE14E"]
 			description: [
 				"Goal: Obtain Blaze Rods."
 				""
@@ -106,7 +109,7 @@
 				type: "item"
 			}]
 			title: "Blaze Rods"
-			x: 9.0d
+			x: 7.2d
 			y: 0.0d
 		}
 		{
@@ -126,10 +129,11 @@
 				type: "item"
 			}]
 			title: "Nether Wart"
-			x: 12.0d
+			x: 9.6d
 			y: 0.0d
 		}
 		{
+			dependencies: ["27A917E49E53B3FA"]
 			description: ["Goal: Brew any potion."]
 			icon: "minecraft:brewing_stand"
 			id: "6194A407CD0DBD0D"
@@ -147,7 +151,7 @@
 				type: "advancement"
 			}]
 			title: "Brew a Potion"
-			x: 15.0d
+			x: 12.0d
 			y: 0.0d
 		}
 		{
@@ -168,10 +172,11 @@
 				type: "advancement"
 			}]
 			title: "Return to Sender"
-			x: 18.0d
+			x: 14.4d
 			y: 0.0d
 		}
 		{
+			dependencies: ["59B14D1349E91015"]
 			description: ["Goal: Enter a Bastion Remnant."]
 			icon: "minecraft:polished_blackstone_bricks"
 			id: "309B70A61B3A37A6"
@@ -189,10 +194,11 @@
 				type: "advancement"
 			}]
 			title: "Those Were the Days"
-			x: 21.0d
+			x: 16.8d
 			y: 0.0d
 		}
 		{
+			dependencies: ["309B70A61B3A37A6"]
 			description: ["Goal: Open a Bastion chest."]
 			icon: "minecraft:chest"
 			id: "2A824BB45C32EADE"
@@ -209,7 +215,7 @@
 				type: "advancement"
 			}]
 			title: "Loot the Bastion"
-			x: 24.0d
+			x: 19.2d
 			y: 0.0d
 		}
 		{
@@ -234,10 +240,11 @@
 				type: "item"
 			}]
 			title: "Crying Obsidian"
-			x: 27.0d
+			x: 21.6d
 			y: 0.0d
 		}
 		{
+			dependencies: ["7345DD2A8B706F9A"]
 			description: [
 				"Goal: Craft a Respawn Anchor."
 				""
@@ -258,7 +265,7 @@
 				type: "item"
 			}]
 			title: "Respawn Anchor"
-			x: 30.0d
+			x: 24.0d
 			y: 0.0d
 		}
 		{
@@ -288,7 +295,7 @@
 				type: "advancement"
 			}]
 			title: "Strider Rider"
-			x: 33.0d
+			x: 26.4d
 			y: 0.0d
 		}
 		{
@@ -313,10 +320,11 @@
 				type: "advancement"
 			}]
 			title: "Fast Travel"
-			x: 36.0d
+			x: 28.8d
 			y: 0.0d
 		}
 		{
+			dependencies: ["59B14D1349E91015"]
 			description: ["Goal: Obtain Ancient Debris."]
 			icon: "minecraft:ancient_debris"
 			id: "0E333FAA0B5B8712"
@@ -333,10 +341,11 @@
 				type: "advancement"
 			}]
 			title: "Ancient Debris"
-			x: 39.0d
+			x: 31.2d
 			y: 0.0d
 		}
 		{
+			dependencies: ["0E333FAA0B5B8712"]
 			description: ["Goal: Craft/obtain a Netherite Ingot."]
 			icon: "minecraft:netherite_ingot"
 			id: "390ED33872B4B896"
@@ -353,10 +362,11 @@
 				type: "item"
 			}]
 			title: "Netherite Ingot"
-			x: 42.0d
+			x: 33.6d
 			y: 0.0d
 		}
 		{
+			dependencies: ["390ED33872B4B896"]
 			description: [
 				"Goal: Obtain the Netherite Upgrade Smithing Template."
 				""
@@ -377,7 +387,7 @@
 				type: "item"
 			}]
 			title: "Netherite Upgrade Template"
-			x: 45.0d
+			x: 36.0d
 			y: 0.0d
 		}
 		{
@@ -397,7 +407,7 @@
 				type: "item"
 			}]
 			title: "Wither Skeleton Skull"
-			x: 48.0d
+			x: 38.4d
 			y: 0.0d
 		}
 	]

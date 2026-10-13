@@ -1,0 +1,482 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "circle"
+	filename: "cataclysm"
+	group: "600AC9ABAC26F3D9"
+	icon: "cataclysm:gauntlet_of_guard"
+	id: "B54A75E1D97D42F6"
+	order_index: 14
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"Defeat the Ender Golem to earn your first Cataclysm victory. Other boss paths remain independent."
+			]
+			icon: "minecraft:ender_eye"
+			id: "67D4BB1214BD4AD6"
+			subtitle: "First Cataclysm Victory"
+			rewards: [{
+				id: "6A3FE6DEC55B43F8"
+				type: "xp"
+				xp: 125
+			}]
+			tasks: [{
+				advancement: "cataclysm:kill_ender_golem"
+				criterion: ""
+				id: "16265ED54CC342FD"
+				type: "advancement"
+			}]
+			title: "First Cataclysm Victory"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			description: [
+				"Explore the Ruined Citadel. Beware the Ender Golem and Ender Guardian."
+			]
+			icon: "cataclysm:void_core"
+			id: "9A894EBDB99F4718"
+			subtitle: "Ruined Citadel"
+			rewards: [{
+				id: "8B4AC152E0A24770"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [{
+				advancement: "cataclysm:find_ruined_citadel"
+				criterion: ""
+				id: "39D9F258486F4402"
+				type: "advancement"
+			}]
+			title: "Ruined Citadel"
+			x: 2.4d
+			y: -4.8d
+		}
+		{
+			dependencies: ["9A894EBDB99F4718"]
+			description: [
+				"Defeat the Ender Guardian. Completion is verified by the Cataclysm advancement."
+			]
+			icon: "cataclysm:gauntlet_of_guard"
+			id: "C7817C771EAB4C78"
+			subtitle: "Ender Guardian"
+			rewards: [{
+				id: "9C96A8F3D8314AD3"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				advancement: "cataclysm:kill_ender_guardian"
+				criterion: ""
+				id: "18F4CC543B8C444F"
+				type: "advancement"
+			}]
+			title: "Ender Guardian"
+			x: 4.8d
+			y: -4.8d
+		}
+		{
+			dependencies: ["C7817C771EAB4C78"]
+			description: [
+				"Obtain the Gauntlet of Guard, one of the Guardian's signature rewards."
+			]
+			icon: "cataclysm:gauntlet_of_guard"
+			id: "C2876332CE69485F"
+			subtitle: "The Guardian's Gauntlet"
+			rewards: [{
+				id: "EAF13681FB8F4C0B"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "34783CCCAF9A426A"
+				item: "cataclysm:gauntlet_of_guard"
+				type: "item"
+			}]
+			title: "The Guardian's Gauntlet"
+			x: 7.2d
+			y: -4.8d
+		}
+		{
+			description: [
+				"Discover the Burning Arena and prepare for Ignis."
+			]
+			icon: "cataclysm:blazing_bone"
+			id: "B47A4F15DEBB4949"
+			subtitle: "Burning Arena"
+			rewards: [{
+				id: "725D6872A3F34B65"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [{
+				advancement: "cataclysm:find_burning_arena"
+				criterion: ""
+				id: "18A40F5A6C5A42D8"
+				type: "advancement"
+			}]
+			title: "Burning Arena"
+			x: 2.4d
+			y: -2.4d
+		}
+		{
+			dependencies: ["B47A4F15DEBB4949"]
+			description: [
+				"Defeat Ignis. Completion is verified by the Cataclysm advancement."
+			]
+			icon: "cataclysm:bulwark_of_the_flame"
+			id: "17415D43FF51458A"
+			subtitle: "Ignis, the Infernal"
+			rewards: [{
+				id: "33857A6406044026"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				advancement: "cataclysm:kill_ignis"
+				criterion: ""
+				id: "33FFAD9480C54281"
+				type: "advancement"
+			}]
+			title: "Ignis, the Infernal"
+			x: 4.8d
+			y: -2.4d
+		}
+		{
+			dependencies: ["17415D43FF51458A"]
+			description: [
+				"Obtain Ignitium from Cataclysm's Nether challenges and investigate its equipment recipes."
+			]
+			icon: "cataclysm:ignitium_ingot"
+			id: "43F47895D95E4909"
+			subtitle: "Ignitium"
+			rewards: [{
+				id: "DB97A68E0482470B"
+				type: "xp"
+				xp: 80
+			}]
+			tasks: [{
+				id: "4ACF99B2F1234174"
+				item: "cataclysm:ignitium_ingot"
+				type: "item"
+			}]
+			title: "Ignitium"
+			x: 7.2d
+			y: -2.4d
+		}
+		{
+			description: [
+				"Find the Ancient Factory and confront the Harbinger."
+			]
+			icon: "cataclysm:witherite_ingot"
+			id: "8C77528BA9D94003"
+			subtitle: "The Ancient Factory"
+			rewards: [{
+				id: "2552BC6A5B51432A"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [{
+				advancement: "cataclysm:find_ancient_factory"
+				criterion: ""
+				id: "1597B31A43CD476C"
+				type: "advancement"
+			}]
+			title: "The Ancient Factory"
+			x: 2.4d
+			y: 0.0d
+		}
+		{
+			dependencies: ["8C77528BA9D94003"]
+			description: [
+				"Defeat the Harbinger. Mark this after the fight."
+			]
+			icon: "cataclysm:witherite_ingot"
+			id: "D921C6870AFF4E6B"
+			subtitle: "The Harbinger"
+			rewards: [{
+				id: "81A98A51F609409D"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				advancement: "cataclysm:kill_harbinger"
+				criterion: ""
+				id: "B523F612951F4847"
+				type: "advancement"
+			}]
+			title: "The Harbinger"
+			x: 4.8d
+			y: 0.0d
+		}
+		{
+			description: [
+				"Explore the Sunken City and prepare for the Leviathan."
+			]
+			icon: "cataclysm:abyss_eye"
+			id: "47EFF01B478F43B7"
+			subtitle: "Sunken City"
+			rewards: [{
+				id: "8E7915039B59405C"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [{
+				advancement: "cataclysm:find_sunken_city"
+				criterion: ""
+				id: "D4485C050BF246CA"
+				type: "advancement"
+			}]
+			title: "Sunken City"
+			x: 2.4d
+			y: 2.4d
+		}
+		{
+			dependencies: ["47EFF01B478F43B7"]
+			description: [
+				"Defeat the Leviathan. Mark this after the fight."
+			]
+			icon: "cataclysm:tidal_claws"
+			id: "C85D969534DC4B9E"
+			subtitle: "The Leviathan"
+			rewards: [{
+				id: "5E81DDE62946454E"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				advancement: "cataclysm:kill_leviathan"
+				criterion: ""
+				id: "0697B9B1C6454C83"
+				type: "advancement"
+			}]
+			title: "The Leviathan"
+			x: 4.8d
+			y: 2.4d
+		}
+		{
+			dependencies: ["C85D969534DC4B9E"]
+			description: [
+				"Obtain the Leviathan's Tidal Claws."
+			]
+			icon: "cataclysm:tidal_claws"
+			id: "3BB7A1051E6743BE"
+			subtitle: "Tidal Claws"
+			rewards: [{
+				id: "B9ED369A6DD24EA0"
+				type: "xp"
+				xp: 80
+			}]
+			tasks: [{
+				id: "BFE3941D59D14E78"
+				item: "cataclysm:tidal_claws"
+				type: "item"
+			}]
+			title: "Tidal Claws"
+			x: 7.2d
+			y: 2.4d
+		}
+		{
+			description: [
+				"Find the Cursed Pyramid and challenge the Ancient Remnant."
+			]
+			icon: "cataclysm:remnant_skull"
+			id: "95B41D895E2B42D6"
+			subtitle: "Cursed Pyramid"
+			rewards: [{
+				id: "24CAB803303F45FD"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [{
+				advancement: "cataclysm:find_cursed_pyramid"
+				criterion: ""
+				id: "0ECB51F6991A46C7"
+				type: "advancement"
+			}]
+			title: "Cursed Pyramid"
+			x: 2.4d
+			y: 4.8d
+		}
+		{
+			dependencies: ["95B41D895E2B42D6"]
+			description: [
+				"Defeat the Ancient Remnant. Mark this after the fight."
+			]
+			icon: "cataclysm:remnant_skull"
+			id: "AD5BF7DB7B994466"
+			subtitle: "Ancient Remnant"
+			rewards: [{
+				id: "38ACAF0F51A746D7"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				advancement: "cataclysm:kill_remnant"
+				criterion: ""
+				id: "0F279B25D0B741E1"
+				type: "advancement"
+			}]
+			title: "Ancient Remnant"
+			x: 4.8d
+			y: 4.8d
+		}
+		{
+			description: [
+				"Discover the Frosted Prison and challenge Maledictus."
+			]
+			icon: "cataclysm:cursed_tombstone"
+			id: "56A71BC4FCDB43A6"
+			subtitle: "Frosted Prison"
+			rewards: [{
+				id: "34232E88624F4869"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [{
+				advancement: "cataclysm:find_frosted_prison"
+				criterion: ""
+				id: "F3F186CF86584771"
+				type: "advancement"
+			}]
+			title: "Frosted Prison"
+			x: 2.4d
+			y: 7.2d
+		}
+		{
+			dependencies: ["56A71BC4FCDB43A6"]
+			description: [
+				"Defeat Maledictus. Mark this after the fight."
+			]
+			icon: "cataclysm:cursium_ingot"
+			id: "DCFC1D284AF848E6"
+			subtitle: "Maledictus"
+			rewards: [{
+				id: "388009603D22408A"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				advancement: "cataclysm:kill_maledictus"
+				criterion: ""
+				id: "CB0F0D19E4AA4807"
+				type: "advancement"
+			}]
+			title: "Maledictus"
+			x: 4.8d
+			y: 7.2d
+		}
+		{
+			dependencies: ["DCFC1D284AF848E6"]
+			description: [
+				"Obtain Cursium and explore the gear it can create."
+			]
+			icon: "cataclysm:cursium_ingot"
+			id: "819B940B092548E9"
+			subtitle: "Cursium"
+			rewards: [{
+				id: "E02EFEFEB950492E"
+				type: "xp"
+				xp: 80
+			}]
+			tasks: [{
+				id: "FA8952EC833C4806"
+				item: "cataclysm:cursium_ingot"
+				type: "item"
+			}]
+			title: "Cursium"
+			x: 7.2d
+			y: 7.2d
+		}
+		{
+			description: [
+				"Challenge and defeat the Netherite Monstrosity."
+			]
+			icon: "cataclysm:infernal_forge"
+			id: "6F5E573D64384E0C"
+			subtitle: "Netherite Monstrosity"
+			rewards: [{
+				id: "2F3DF4E2771C4A30"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				advancement: "cataclysm:kill_monstrosity"
+				criterion: ""
+				id: "A0D45622FA2D49F8"
+				type: "advancement"
+			}]
+			title: "Netherite Monstrosity"
+			x: 2.4d
+			y: 9.6d
+		}
+		{
+			dependencies: ["6F5E573D64384E0C"]
+			description: [
+				"Obtain the Infernal Forge from the Netherite Monstrosity."
+			]
+			icon: "cataclysm:infernal_forge"
+			id: "BE82A03CD89E4CC6"
+			subtitle: "Infernal Forge"
+			rewards: [{
+				id: "64F503616D3B42CC"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [{
+				id: "ADF7BE4F88954FF2"
+				item: "cataclysm:infernal_forge"
+				type: "item"
+			}]
+			title: "Infernal Forge"
+			x: 4.8d
+			y: 9.6d
+		}
+		{
+			description: [
+				"Find the Acropolis and face Scylla."
+			]
+			icon: "cataclysm:essence_of_the_storm"
+			id: "D16EE9ADEDDB40EC"
+			subtitle: "The Acropolis"
+			rewards: [{
+				id: "A760F9F88F394F64"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [{
+				advancement: "cataclysm:find_acropolis"
+				criterion: ""
+				id: "4088F8251E7C415E"
+				type: "advancement"
+			}]
+			title: "The Acropolis"
+			x: 2.4d
+			y: 12.0d
+		}
+		{
+			dependencies: ["D16EE9ADEDDB40EC"]
+			description: [
+				"Defeat Scylla. Mark this after the fight."
+			]
+			icon: "cataclysm:essence_of_the_storm"
+			id: "B5519F5022EE4F45"
+			subtitle: "Scylla"
+			rewards: [{
+				id: "4975371D809F4BF7"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				advancement: "cataclysm:kill_scylla"
+				criterion: ""
+				id: "231796F70A7146E9"
+				type: "advancement"
+			}]
+			title: "Scylla"
+			x: 4.8d
+			y: 12.0d
+		}
+	]
+	title: "Cataclysm"
+}

@@ -1909,3 +1909,54 @@ first update in a while checkin what is here..
 - chesttracker-forge-1.0.jar
 - SpiderOverhaul-0.0.6-Forge-v1.20.jar
 
+# 2026-10-13
+
+## Server Mods
+
+### Added
+- friendsandfoes-forge-5.0.2+mc1.20.1.jar
+- ftb-quests-forge-2001.4.22.jar
+- ftb-xmod-compat-forge-2.1.3.jar
+- Ksyxis-1.4.6.jar
+- modernfix-forge-5.27.88+mc1.20.1.jar
+- mythsandlegends-1.0.6.jar
+- PuzzlesLib-v8.1.36-1.20.1-Forge.jar
+- shippy_ships-201.25.1-FORGE.jar
+- supplementaries-1.20-3.1.44-forge.jar
+
+### Removed
+- friendsandfoes-forge-mc1.20.1-3.0.9.jar
+- Ksyxis-1.4.5.jar
+- modernfix-forge-5.27.85+mc1.20.1.jar
+- mythsandlegends-1.0.5.jar
+- PuzzlesLib-v8.1.33-1.20.1-Forge.jar
+- shippy_ships-1.0.17.6-FORGE-MC-1.20.1.jar
+- supplementaries-1.20-3.1.43-forge.jar
+
+## Client Mods
+
+### Added
+- AmbientSounds_FORGE_v6.3.10_mc1.20.1.jar
+- AsyncParticles-20.1.4.1+1.20.1.jar
+- entityculling-forge-1.11.3-mc1.20.1.jar
+- friendsandfoes-forge-5.0.2+mc1.20.1.jar
+- ftb-quests-forge-2001.4.22.jar
+- ftb-xmod-compat-forge-2.1.3.jar
+- jdamageindicators-forge-1.20.1-2.3.0.jar
+- mythsandlegends-1.0.6.jar
+- PuzzlesLib-v8.1.36-1.20.1-Forge.jar
+- shippy_ships-201.25.1-FORGE.jar
+- supplementaries-1.20-3.1.44-forge.jar
+
+### Removed
+- AmbientSounds_FORGE_v6.3.9_mc1.20.1.jar
+- AsyncParticles-20.1.4.0-beta.2+1.20.1.jar
+- damageindicator-2.2.1-1.20.1.jar
+- entityculling-forge-1.11.2-mc1.20.1.jar
+- friendsandfoes-forge-mc1.20.1-3.0.9.jar
+- modernfix-forge-5.27.85+mc1.20.1.jar
+- mythsandlegends-1.0.5.jar
+- PuzzlesLib-v8.1.33-1.20.1-Forge.jar
+- shippy_ships-1.0.17.6-FORGE-MC-1.20.1.jar
+- supplementaries-1.20-3.1.43-forge.jar
+

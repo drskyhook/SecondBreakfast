@@ -19,6 +19,11 @@
 			icon: "farmersdelight:cooking_pot"
 			id: "73DE8732B574765F"
 			subtitle: "Food progression begins here"
+			rewards: [{
+				id: "11D9F7B2E67B4E82"
+				type: "xp"
+				xp: 80
+			}]
 			tasks: [{
 				id: "05AFDCD893F8B35E"
 				title: "Begin"
@@ -42,6 +47,11 @@
 			}
 			id: "0D931BD16B93487E"
 			subtitle: "Core early tool"
+			rewards: [{
+				id: "D777971321BC49D6"
+				type: "xp"
+				xp: 125
+			}]
 			tasks: [{
 				id: "1C825D02C291D967"
 				item: {
@@ -55,7 +65,7 @@
 				type: "item"
 			}]
 			title: "Craft a Knife"
-			x: 2.0d
+			x: 1.6d
 			y: 0.0d
 		}
 		{
@@ -63,6 +73,11 @@
 			icon: "farmersdelight:cutting_board"
 			id: "2C5A3DF2DF1AE408"
 			subtitle: "Make a Cutting Board"
+			rewards: [{
+				id: "AE77F9F257CD4ECF"
+				type: "xp"
+				xp: 125
+			}]
 			tasks: [{
 				id: "29039D8BE3B026AA"
 				item: "farmersdelight:cutting_board"
@@ -70,7 +85,7 @@
 				type: "item"
 			}]
 			title: "Processing Food"
-			x: 4.0d
+			x: 3.2d
 			y: 0.0d
 		}
 		{
@@ -81,6 +96,11 @@
 			icon: "farmersdelight:tomato_seeds"
 			id: "40397C169B2125DC"
 			subtitle: "Get Tomato Seeds"
+			rewards: [{
+				id: "53F0AEA107084238"
+				type: "xp"
+				xp: 80
+			}]
 			tasks: [{
 				id: "7191CBB5E3B202B5"
 				item: "farmersdelight:tomato_seeds"
@@ -88,7 +108,7 @@
 				type: "item"
 			}]
 			title: "Start a Crop"
-			x: 6.0d
+			x: 4.8d
 			y: 0.0d
 		}
 		{
@@ -99,13 +119,18 @@
 			icon: "farmersdelight:rice_panicle"
 			id: "70C46CB9024C0ECA"
 			subtitle: "Rice needs shallow water"
+			rewards: [{
+				id: "DAFD648B2E48478B"
+				type: "xp"
+				xp: 80
+			}]
 			tasks: [{
 				id: "134BB456FD268374"
 				title: "Place Rice Crops"
 				type: "custom"
 			}]
 			title: "Plant Rice"
-			x: 8.0d
+			x: 6.4d
 			y: 0.0d
 		}
 		{
@@ -116,6 +141,11 @@
 			icon: "farmersdelight:rich_soil"
 			id: "7A745A865D82CFBD"
 			subtitle: "Obtain Rich Soil"
+			rewards: [{
+				id: "878F5CE0FD0E4B0F"
+				type: "xp"
+				xp: 80
+			}]
 			tasks: [{
 				id: "297ACA3AE5DB1756"
 				item: "farmersdelight:rich_soil"
@@ -123,7 +153,7 @@
 				type: "item"
 			}]
 			title: "Upgrade Your Soil"
-			x: 10.0d
+			x: 8.0d
 			y: 0.0d
 		}
 		{
@@ -131,13 +161,18 @@
 			icon: "farmersdelight:cooking_pot"
 			id: "0A5D0DC5C6B23609"
 			subtitle: "Place the Cooking Pot"
+			rewards: [{
+				id: "04B1004A0FFF4381"
+				type: "xp"
+				xp: 125
+			}]
 			tasks: [{
 				id: "5A2879E64767FCF0"
 				title: "Place Cooking Pot"
 				type: "custom"
 			}]
 			title: "Cooking Pot"
-			x: 12.0d
+			x: 9.6d
 			y: 0.0d
 		}
 		{
@@ -154,6 +189,11 @@
 			}
 			id: "4B06F5862301A11E"
 			subtitle: "Portable cooking"
+			rewards: [{
+				id: "0FA090823B724F6E"
+				type: "xp"
+				xp: 125
+			}]
 			tasks: [{
 				id: "4B848D1819B9C826"
 				item: {
@@ -167,7 +207,7 @@
 				type: "item"
 			}]
 			title: "Skillet"
-			x: 14.0d
+			x: 11.2d
 			y: 0.0d
 		}
 		{
@@ -178,6 +218,11 @@
 			icon: "farmersdelight:stove"
 			id: "3E6FEF0764440F4F"
 			subtitle: "Kitchen upgrade"
+			rewards: [{
+				id: "69A1F75EECEC427F"
+				type: "xp"
+				xp: 125
+			}]
 			tasks: [{
 				id: "602BAE6CEE1006F3"
 				item: "farmersdelight:stove"
@@ -185,7 +230,7 @@
 				type: "item"
 			}]
 			title: "Stove"
-			x: 16.0d
+			x: 12.8d
 			y: 0.0d
 		}
 		{
@@ -193,6 +238,11 @@
 			icon: "farmersdelight:cooked_rice"
 			id: "180F232AD99C996B"
 			subtitle: "Make Cooked Rice"
+			rewards: [{
+				id: "19FA1562B5FC41CA"
+				type: "xp"
+				xp: 80
+			}]
 			tasks: [{
 				id: "16F4132339589F76"
 				item: "farmersdelight:cooked_rice"
@@ -200,7 +250,7 @@
 				type: "item"
 			}]
 			title: "Cook a Meal"
-			x: 18.0d
+			x: 14.4d
 			y: 0.0d
 		}
 		{
@@ -211,13 +261,18 @@
 			icon: "farmersdelight:roast_chicken"
 			id: "61AAB1558004349A"
 			subtitle: "Shared food"
+			rewards: [{
+				id: "8F9176708D6844F6"
+				type: "xp"
+				xp: 80
+			}]
 			tasks: [{
 				id: "5C6A9DAE57A7C4A6"
 				title: "Place Roast Chicken"
 				type: "custom"
 			}]
 			title: "Place a Feast"
-			x: 20.0d
+			x: 16.0d
 			y: 0.0d
 		}
 	]

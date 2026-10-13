@@ -7,7 +7,7 @@ alltheleaks-1.1.3+1.20.1-forge.jar
 almanac-1.20.x-forge-1.0.2.jar
 almostunified-forge-1.20.1-0.11.0.jar
 alshanex_familiars-1.20.1_v4.1.0.jar
-AmbientSounds_FORGE_v6.3.9_mc1.20.1.jar
+AmbientSounds_FORGE_v6.3.10_mc1.20.1.jar
 amendments-1.20-2.2.6.jar
 Animation_Overhaul-forge-1.20.x-1.3.1.jar
 antiquetradingship-1.4.0-forge-1.20.1.jar
@@ -17,7 +17,7 @@ aquamirae_bettercombat.jar
 aquamirae-forge-1.20.1-6.4.0.jar
 aquatictorches-1.20.1-forge-1.1.1.jar
 architectury-9.2.14-forge.jar
-AsyncParticles-20.1.4.0-beta.2+1.20.1.jar
+AsyncParticles-20.1.4.1+1.20.1.jar
 AttributeFix-Forge-1.20.1-21.0.5.jar
 attributizer-3.2.jar
 Auroras-1.20.1-1.6.2.jar
@@ -105,7 +105,6 @@ curiosbackslot-4.0.6-nc.jar
 curios-forge-5.14.1+1.20.1.jar
 curiouslanterns-1.20.1-1.3.7.jar
 CutThrough-v8.0.2-1.20.1-Forge.jar
-damageindicator-2.2.1-1.20.1.jar
 Darker Depths-1.20.1-2.1.5.jar
 Data_Anchor-forge-1.20.1-1.0.0.23.jar
 decorative_blocks-forge-1.20.1-4.1.3.jar
@@ -141,7 +140,7 @@ endermanoverhaul-forge-1.20.1-1.0.4.jar
 Enhanced-Celestials-2-Core-Forge-1.20.1-1.0.3.3.jar
 Enhanced-Celestials-2-Default-Lunar-Events-Forge-1.20.1-1.0.0.6.jar
 Enhanced-Celestials-2-Shaders-Forge-1.20.1-1.0.0.4.jar
-entityculling-forge-1.11.2-mc1.20.1.jar
+entityculling-forge-1.11.3-mc1.20.1.jar
 EquipmentCompare-1.20.1-forge-1.3.7.jar
 evenmoredragons-1.20.1-1.0.5.jar
 everycomp-1.20-2.9.27-forge.jar
@@ -169,10 +168,12 @@ floating_islands-1.5.3.jar
 forge frogi_lib 1.20.1.jar
 forge-runiclib-1.20.1-4.3.11.jar
 framework-forge-1.20.1-0.8.0.jar
-friendsandfoes-forge-mc1.20.1-3.0.9.jar
+friendsandfoes-forge-5.0.2+mc1.20.1.jar
 fromtheshadowsreborn-2.9.jar
 ftb-library-forge-2001.2.13.jar
+ftb-quests-forge-2001.4.22.jar
 ftb-teams-forge-2001.3.2.jar
+ftb-xmod-compat-forge-2.1.3.jar
 functionalarmortrim-1.20.1-6.jar
 fzzy_config-0.7.7+1.20.1+forge.jar
 gallery-1.20.1-1.0.3.jar
@@ -213,6 +214,7 @@ item-filters-forge-2001.1.0-build.59.jar
 Item-Obliterator-NeoForge-MC1.20.1-2.3.1.jar
 Jade-1.20.1-Forge-11.13.3.jar
 jamlib-forge-1.3.6+1.20.1-patch.1.jar
+jdamageindicators-forge-1.20.1-2.3.0.jar
 jeed-1.20-2.2.6.jar
 jei-1.20.1-forge-15.62.0.219.jar
 JustEnoughProfessions-forge-1.20.1-3.0.1.jar
@@ -256,7 +258,6 @@ mezz_config-1.20.1-forge-0.6.8.jar
 midnightlib-forge-1.9.2+1.20.1.jar
 miningspeedtooltips-forge-1.0.0-1.20.1.jar
 misctweaks-1.1.4+1.20.1.jar
-modernfix-forge-5.27.85+mc1.20.1.jar
 monsterexpansion-1.20.1-v0.7.6.jar
 MoogsStructureLib-forge-1.20-3.4.2.jar
 moonlight-1.20-2.16.36-forge.jar
@@ -268,7 +269,7 @@ mowziesmobs-1.8.2.jar
 MutantMonsters-v8.0.8-1.20.1-Forge.jar
 MyServerIsCompatible-1.20-1.0.jar
 mythicupgrades-forge-1.20.1-5.1.1.jar
-mythsandlegends-1.0.5.jar
+mythsandlegends-1.0.6.jar
 Necronomicon-Forge-1.6.0+1.20.1.jar
 NekosEnchantedBooks-1.19.3-2.0.3.jar
 NetherChested-v8.0.4-1.20.1-Forge.jar
@@ -294,7 +295,7 @@ polymorph-forge-0.49.11+1.20.1.jar
 potion_combiner-Forge-1.20.1-1.0.0.jar
 Prism-1.20.1-forge-1.0.5.jar
 projectile_damage-forge-3.2.2+1.20.1.jar
-PuzzlesLib-v8.1.33-1.20.1-Forge.jar
+PuzzlesLib-v8.1.36-1.20.1-Forge.jar
 Quark-4.0-462.jar
 Quest Kill Task-0.2.0+1.20.1-forge.jar
 quickstack-1.20.1-2.jar
@@ -326,7 +327,7 @@ shadowizardlib-1.20.1-1.3.1.jar
 shelfmod-mc1.20.1-forge-3.2.jar
 shellbound-for-airship-forge-1.2.1.jar
 shieldexp-forge-1.20.1-1.3.7.jar
-shippy_ships-1.0.17.6-FORGE-MC-1.20.1.jar
+shippy_ships-201.25.1-FORGE.jar
 simple_snowy_fix-forge-1.19-1.20.1-2.1.5.jar
 SimpleBackups-1.20.1-3.1.18.jar
 sky_whale_ship-1.20.1.jar
@@ -347,7 +348,7 @@ stepitup-2.0.1-1.20.1-forge.jar
 stormborn_tomb-1.3.5 forge.jar
 structure_layout_optimizer-forge-1.0.11.jar
 StylishEffects-v8.0.4-1.20.1-Forge.jar
-supplementaries-1.20-3.1.43-forge.jar
+supplementaries-1.20-3.1.44-forge.jar
 TaxTreeGiant+M.1.20.1+ForM.2.2.0.jar
 temporalapi-1.6.7.jar
 tenshilib-1.20.1-1.7.6-forge.jar

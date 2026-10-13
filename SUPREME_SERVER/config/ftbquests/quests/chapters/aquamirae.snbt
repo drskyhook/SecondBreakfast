@@ -29,30 +29,45 @@
 		{
 			icon: "aquamirae:fin"
 			id: "61208F600ADC6A02"
+			rewards: [{
+				id: "17C7B01659E242F1"
+				type: "xp"
+				xp: 80
+			}]
 			tasks: [{
 				id: "1A8D1230D275ABEF"
 				item: "aquamirae:fin"
 				type: "item"
 			}]
 			title: "Almost Like a Fan"
-			x: -3.0d
-			y: 2.0d
+			x: -2.4d
+			y: 1.6d
 		}
 		{
 			icon: "aquamirae:anglers_fang"
 			id: "7C5272F2574FE929"
+			rewards: [{
+				id: "B367D6A53A7840FE"
+				type: "xp"
+				xp: 80
+			}]
 			tasks: [{
 				id: "6309F12CC37B07D0"
 				item: "aquamirae:anglers_fang"
 				type: "item"
 			}]
 			title: "Perfect Instance"
-			x: 3.0d
-			y: 2.0d
+			x: 2.4d
+			y: 1.6d
 		}
 		{
 			icon: "aquamirae:shell_horn"
 			id: "011E1A8AE6CB0C27"
+			rewards: [{
+				id: "8A99B9DE56104AD8"
+				type: "xp"
+				xp: 80
+			}]
 			tasks: [{
 				id: "0216B0E6B70BD730"
 				item: "aquamirae:shell_horn"
@@ -60,11 +75,16 @@
 			}]
 			title: "Exploration"
 			x: 0.0d
-			y: 4.0d
+			y: 3.2d
 		}
 		{
 			icon: "aquamirae:frozen_key"
 			id: "76B7FBE8AE9B36B0"
+			rewards: [{
+				id: "6AA411F249AF43FC"
+				type: "xp"
+				xp: 80
+			}]
 			tasks: [{
 				id: "3FBD795609274CC0"
 				item: "aquamirae:frozen_key"
@@ -72,7 +92,7 @@
 			}]
 			title: "The Dead Sea"
 			x: 0.0d
-			y: 6.0d
+			y: 4.8d
 		}
 		{
 			icon: {
@@ -83,6 +103,11 @@
 				}
 			}
 			id: "1C2DF839B0F33A7B"
+			rewards: [{
+				id: "B7D63727098748AF"
+				type: "xp"
+				xp: 80
+			}]
 			tasks: [{
 				id: "2A7F05FFC172E94E"
 				item: {
@@ -95,24 +120,34 @@
 				type: "item"
 			}]
 			title: "Greed"
-			x: -3.0d
-			y: 8.0d
+			x: -2.4d
+			y: 6.4d
 		}
 		{
 			icon: "aquamirae:rune_of_the_storm"
 			id: "152135B5D7681DCF"
+			rewards: [{
+				id: "296071D5815D41FD"
+				type: "xp"
+				xp: 80
+			}]
 			tasks: [{
 				id: "285FC37947949A37"
 				item: "aquamirae:rune_of_the_storm"
 				type: "item"
 			}]
 			title: "Heart of the Storm"
-			x: 3.0d
-			y: 8.0d
+			x: 2.4d
+			y: 6.4d
 		}
 		{
 			icon: "aquamirae:esca"
 			id: "683245B7D7B2B4A7"
+			rewards: [{
+				id: "E6C61E8D9933461C"
+				type: "xp"
+				xp: 80
+			}]
 			tasks: [{
 				id: "44A262FB57033B31"
 				item: "aquamirae:esca"
@@ -120,31 +155,41 @@
 			}]
 			title: "The Light in the Darkness"
 			x: 0.0d
-			y: 10.0d
+			y: 8.0d
 		}
 		{
 			icon: "aquamirae:sea_stew"
 			id: "61E1738CB3FC94C0"
+			rewards: [{
+				id: "A8049E2955EB4556"
+				type: "xp"
+				xp: 80
+			}]
 			tasks: [{
 				id: "1133AB8944E28B4F"
 				item: "aquamirae:sea_stew"
 				type: "item"
 			}]
 			title: "Seafood"
-			x: -3.0d
-			y: 12.0d
+			x: -2.4d
+			y: 9.6d
 		}
 		{
 			icon: "aquamirae:poseidons_breakfast"
 			id: "3C97818CBACCC68A"
+			rewards: [{
+				id: "B45E85DB02CA422E"
+				type: "xp"
+				xp: 80
+			}]
 			tasks: [{
 				id: "1CCDD5BABD1A91C7"
 				item: "aquamirae:poseidons_breakfast"
 				type: "item"
 			}]
 			title: "Power of the Sea"
-			x: 3.0d
-			y: 12.0d
+			x: 2.4d
+			y: 9.6d
 		}
 		{
 			icon: {
@@ -155,6 +200,11 @@
 				}
 			}
 			id: "0A9BF85D9B5112AF"
+			rewards: [{
+				id: "551C25C39AED4393"
+				type: "xp"
+				xp: 250
+			}]
 			tasks: [{
 				id: "4025DB2965356368"
 				item: {
@@ -167,8 +217,8 @@
 				type: "item"
 			}]
 			title: "Terrible Armor"
-			x: -3.0d
-			y: 14.0d
+			x: -2.4d
+			y: 11.2d
 		}
 		{
 			icon: {
@@ -179,6 +229,11 @@
 				}
 			}
 			id: "3A5F2FE345B5F9A7"
+			rewards: [{
+				id: "7FD73F6538D243F2"
+				type: "xp"
+				xp: 80
+			}]
 			tasks: [{
 				id: "2699505CA94C9CAC"
 				item: {
@@ -191,8 +246,8 @@
 				type: "item"
 			}]
 			title: "Three Bolt Suit"
-			x: 3.0d
-			y: 14.0d
+			x: 2.4d
+			y: 11.2d
 		}
 		{
 			icon: {
@@ -203,6 +258,11 @@
 				}
 			}
 			id: "10CC2D58975F6D9D"
+			rewards: [{
+				id: "3F33A4F8D0504CA9"
+				type: "xp"
+				xp: 250
+			}]
 			tasks: [{
 				id: "4AA77F478D117BA1"
 				item: {
@@ -216,11 +276,16 @@
 			}]
 			title: "Abyssal Armor"
 			x: 0.0d
-			y: 16.0d
+			y: 12.8d
 		}
 		{
 			icon: "aquamirae:golden_moth_in_a_jar"
 			id: "5AF4C732803BBF22"
+			rewards: [{
+				id: "09B98ED21EBC473A"
+				type: "xp"
+				xp: 80
+			}]
 			tasks: [{
 				id: "6FEF7A864F65F2DD"
 				item: "aquamirae:golden_moth_in_a_jar"
@@ -228,7 +293,7 @@
 			}]
 			title: "Shine"
 			x: 0.0d
-			y: 18.0d
+			y: 14.4d
 		}
 		{
 			description: [
@@ -242,7 +307,7 @@
 			subtitle: "Master of the Frozen Sea"
 			title: "Aquamirae Complete"
 			x: 0.0d
-			y: 20.5d
+			y: 16.4d
 		}
 	]
 	title: "Aquamirae"

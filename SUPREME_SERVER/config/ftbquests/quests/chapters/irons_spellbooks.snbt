@@ -16,6 +16,11 @@
 			icon: "irons_spellbooks:copper_spell_book"
 			id: "3162A41B87A726CA"
 			subtitle: "Begin your studies"
+			rewards: [{
+				id: "F9D8B8A4DD144665"
+				type: "xp"
+				xp: 125
+			}]
 			tasks: [{
 				id: "2FCD0EB842FC07C1"
 				item: "irons_spellbooks:copper_spell_book"
@@ -26,6 +31,7 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["3162A41B87A726CA"]
 			description: [
 				"Place the spellbook in the spellbook slot."
 				"Open it and view your spell slots."
@@ -33,15 +39,21 @@
 			icon: "irons_spellbooks:copper_spell_book"
 			id: "40D6D124944DEA73"
 			subtitle: "Equip the book"
+			rewards: [{
+				id: "48F3DB61871840C6"
+				type: "xp"
+				xp: 80
+			}]
 			tasks: [{
 				id: "067EF4F2B162B131"
 				type: "checkmark"
 			}]
 			title: "Magery"
-			x: 2.0d
+			x: 1.6d
 			y: 0.0d
 		}
 		{
+			dependencies: ["40D6D124944DEA73"]
 			description: [
 				"Craft an Inscription Table."
 				"This is how you apply learned spells to your book."
@@ -49,16 +61,22 @@
 			icon: "irons_spellbooks:inscription_table"
 			id: "12D86CBC22D6CEF4"
 			subtitle: "Spells are written, not found"
+			rewards: [{
+				id: "8BC2623333B1438B"
+				type: "xp"
+				xp: 80
+			}]
 			tasks: [{
 				id: "547B2B697C07C7FE"
 				item: "irons_spellbooks:inscription_table"
 				type: "item"
 			}]
 			title: "Inscription Table"
-			x: 4.0d
+			x: 3.2d
 			y: 0.0d
 		}
 		{
+			dependencies: ["12D86CBC22D6CEF4"]
 			description: [
 				"Obtain an Unlearned Scroll."
 				"Right click to learn the spell."
@@ -67,13 +85,18 @@
 			icon: "irons_spellbooks:scroll"
 			id: "5904906CF86C4920"
 			subtitle: "Knowledge must be studied"
+			rewards: [{
+				id: "26A71CC699CF4620"
+				type: "xp"
+				xp: 80
+			}]
 			tasks: [{
 				id: "63E9226A902EFB0B"
 				item: "irons_spellbooks:scroll.unlearned"
 				type: "item"
 			}]
 			title: "Unlearned Scroll"
-			x: 6.0d
+			x: 4.8d
 			y: 0.0d
 		}
 		{
@@ -84,16 +107,22 @@
 			icon: "irons_spellbooks:common_ink"
 			id: "2FB25DC402C3F26F"
 			subtitle: "Ink determines power"
+			rewards: [{
+				id: "BF122A6A59174BC2"
+				type: "xp"
+				xp: 80
+			}]
 			tasks: [{
 				id: "188D6777494F408B"
 				item: "irons_spellbooks:common_ink"
 				type: "item"
 			}]
 			title: "Tools of the Trade"
-			x: 8.0d
+			x: 6.4d
 			y: 0.0d
 		}
 		{
+			dependencies: ["2FB25DC402C3F26F"]
 			description: [
 				"Craft a Scroll Forge."
 				"Use ink and materials to craft scrolls."
@@ -101,16 +130,22 @@
 			icon: "irons_spellbooks:scroll_forge"
 			id: "62335C9D0FE8A94D"
 			subtitle: "Craft your own spells"
+			rewards: [{
+				id: "40339AD753824FF1"
+				type: "xp"
+				xp: 250
+			}]
 			tasks: [{
 				id: "6AF75EDAD77591EC"
 				item: "irons_spellbooks:scroll_forge"
 				type: "item"
 			}]
 			title: "Scroll Forge"
-			x: 10.0d
+			x: 8.0d
 			y: 0.0d
 		}
 		{
+			dependencies: ["62335C9D0FE8A94D"]
 			description: [
 				"Assign a spell to a slot."
 				"Cast it using your cast key."
@@ -119,12 +154,17 @@
 			icon: "irons_spellbooks:scroll"
 			id: "0CDC95CD8725AA8C"
 			subtitle: "Use your spell"
+			rewards: [{
+				id: "DE4B9487383C469B"
+				type: "xp"
+				xp: 125
+			}]
 			tasks: [{
 				id: "0921A52D0E48BA91"
 				type: "checkmark"
 			}]
 			title: "First Cast"
-			x: 12.0d
+			x: 9.6d
 			y: 0.0d
 		}
 		{
@@ -135,16 +175,22 @@
 			icon: "irons_spellbooks:iron_spell_book"
 			id: "06F5CDEB08FFD4F4"
 			subtitle: "Upgrade your capacity"
+			rewards: [{
+				id: "28CC02A584F84616"
+				type: "xp"
+				xp: 125
+			}]
 			tasks: [{
 				id: "6B55997BEBC10551"
 				item: "irons_spellbooks:iron_spell_book"
 				type: "item"
 			}]
 			title: "Ironbound Tome"
-			x: 14.0d
+			x: 11.2d
 			y: 0.0d
 		}
 		{
+			dependencies: ["06F5CDEB08FFD4F4"]
 			description: [
 				"Craft an Arcane Anvil."
 				"Use it to upgrade and improve magical equipment."
@@ -152,16 +198,22 @@
 			icon: "irons_spellbooks:arcane_anvil"
 			id: "7CD2B82000403D98"
 			subtitle: "Enhance your power"
+			rewards: [{
+				id: "C35DEDBE594C4DFB"
+				type: "xp"
+				xp: 80
+			}]
 			tasks: [{
 				id: "41D006FAD1FB787C"
 				item: "irons_spellbooks:arcane_anvil"
 				type: "item"
 			}]
 			title: "Arcane Anvil"
-			x: 16.0d
+			x: 12.8d
 			y: 0.0d
 		}
 		{
+			dependencies: ["7CD2B82000403D98"]
 			description: [
 				"Craft an Ice Staff or any casting staff."
 				"Staffs enhance spellcasting."
@@ -169,13 +221,18 @@
 			icon: "irons_spellbooks:ice_staff"
 			id: "4928039B1A22EA6A"
 			subtitle: "Wield greater magic"
+			rewards: [{
+				id: "24279F676F97460F"
+				type: "xp"
+				xp: 80
+			}]
 			tasks: [{
 				id: "55041BAF0CE2A030"
 				item: "irons_spellbooks:ice_staff"
 				type: "item"
 			}]
 			title: "Casting Implement"
-			x: 18.0d
+			x: 14.4d
 			y: 0.0d
 		}
 		{
@@ -192,6 +249,11 @@
 			}
 			id: "5D8E8CDE63DBDBB8"
 			subtitle: "Increase mana and spell power"
+			rewards: [{
+				id: "C97A0B056A1B485C"
+				type: "xp"
+				xp: 250
+			}]
 			tasks: [{
 				id: "0C059435F1885B7A"
 				item: {
@@ -204,10 +266,11 @@
 				type: "item"
 			}]
 			title: "Mage Armor"
-			x: 20.0d
+			x: 16.0d
 			y: 0.0d
 		}
 		{
+			dependencies: ["5D8E8CDE63DBDBB8"]
 			description: [
 				"Craft any rune."
 				"Runes allow specialization in a school of magic."
@@ -215,16 +278,22 @@
 			icon: "irons_spellbooks:fire_rune"
 			id: "532856337B5881F7"
 			subtitle: "Specialize your magic"
+			rewards: [{
+				id: "5DF6AA4D95664E08"
+				type: "xp"
+				xp: 80
+			}]
 			tasks: [{
 				id: "1D50B1372D88E983"
 				item: "irons_spellbooks:fire_rune"
 				type: "item"
 			}]
 			title: "Runes and Affinity"
-			x: 22.0d
+			x: 17.6d
 			y: 0.0d
 		}
 		{
+			dependencies: ["532856337B5881F7"]
 			description: [
 				"You now understand:"
 				"Books"
@@ -240,12 +309,17 @@
 			icon: "irons_spellbooks:diamond_spell_book"
 			id: "74D88E2EB829F4B9"
 			subtitle: "You understand the system"
+			rewards: [{
+				id: "DCDFADEDE9784220"
+				type: "xp"
+				xp: 500
+			}]
 			tasks: [{
 				id: "37B4724B90E61FAA"
 				type: "checkmark"
 			}]
 			title: "Master Enchanter"
-			x: 24.0d
+			x: 19.2d
 			y: 0.0d
 		}
 	]

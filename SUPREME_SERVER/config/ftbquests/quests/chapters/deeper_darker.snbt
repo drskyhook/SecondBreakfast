@@ -34,6 +34,7 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["48536D433C71E499"]
 			description: [
 				"Pick up a Sculk Catalyst."
 				""
@@ -57,6 +58,7 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["2B9428281F953A0E"]
 			description: [
 				"Pick up a Sculk Shrieker."
 				""
@@ -103,6 +105,7 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["5F523798FCE39EAE"]
 			description: [
 				"Collect a Disc Fragment (5)."
 				""
@@ -125,6 +128,7 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["5F523798FCE39EAE"]
 			description: [
 				"Craft a Recovery Compass."
 				""

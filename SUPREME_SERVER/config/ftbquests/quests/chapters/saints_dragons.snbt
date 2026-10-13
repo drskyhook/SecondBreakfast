@@ -1,0 +1,218 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "circle"
+	filename: "saints_dragons"
+	group: "600AC9ABAC26F3D9"
+	icon: "saintsdragons:draconic_codex"
+	id: "96D36C1CDD6D45C3"
+	order_index: 13
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"Craft a Draconic Codex to begin studying the dragons of this world."
+				"Use it to inspect your tamed dragons and manage their allies."
+			]
+			icon: "saintsdragons:draconic_codex"
+			id: "5DF0BFC0834D4843"
+			subtitle: "Craft the Draconic Codex"
+			rewards: [{
+				id: "C8B7EAD782614F60"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [{
+				id: "03D1361F4E2545B7"
+				item: "saintsdragons:draconic_codex"
+				type: "item"
+			}]
+			title: "The Dragon Scholar"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5DF0BFC0834D4843"]
+			description: [
+				"Find a living dragon in the world. Explore carefully: different species inhabit different environments."
+				"This completes automatically when Saints Dragons grants its encounter advancement."
+			]
+			icon: "saintsdragons:draconic_codex"
+			id: "D0CDD64661FB43BD"
+			subtitle: "Find a dragon"
+			rewards: [{
+				id: "9C2F23B3E142478B"
+				type: "xp"
+				xp: 125
+			}]
+			tasks: [{
+				advancement: "saintsdragons:encounter_dragon"
+				criterion: ""
+				id: "CB6787781A584113"
+				type: "advancement"
+			}]
+			title: "First Encounter"
+			x: 2.4d
+			y: 0.0d
+		}
+		{
+			dependencies: ["D0CDD64661FB43BD"]
+			description: [
+				"Obtain a Cindervane egg, or use this as inspiration to pursue another species."
+				"Different dragon eggs have their own acquisition and hatching conditions."
+			]
+			icon: "saintsdragons:cindervane_egg"
+			id: "8C9A5FFC3C894BA9"
+			subtitle: "Acquire a dragon egg"
+			rewards: [{
+				id: "1BA5E4BE437D4676"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [{
+				id: "E0E3F844B6864B0D"
+				item: "saintsdragons:cindervane_egg"
+				type: "item"
+			}]
+			title: "A Dragon Egg"
+			x: 4.8d
+			y: 0.0d
+		}
+		{
+			dependencies: ["8C9A5FFC3C894BA9"]
+			description: [
+				"Make a Dragon Brush for dragon care and scale gathering."
+				"Raising dragons is more than obtaining a flying mount."
+			]
+			icon: "saintsdragons:dragon_brush"
+			id: "98F1F225F5D94835"
+			subtitle: "Craft a Dragon Brush"
+			rewards: [{
+				id: "F23F9CA3361D4C92"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [{
+				id: "3BC6A5BACC6A4992"
+				item: "saintsdragons:dragon_brush"
+				type: "item"
+			}]
+			title: "The Dragon Keeper"
+			x: 7.2d
+			y: 0.0d
+		}
+		{
+			description: [
+				"Prepare the core used in dragon binder crafting."
+				"This is a stepping stone toward managing dragons during exploration."
+			]
+			icon: "saintsdragons:dragon_binder_core"
+			id: "6E43A736C4DF4F0D"
+			subtitle: "Craft a Dragon Binder Core"
+			rewards: [{
+				id: "642A88AB6C814737"
+				type: "xp"
+				xp: 80
+			}]
+			tasks: [{
+				id: "3875F1148E8D4558"
+				item: "saintsdragons:dragon_binder_core"
+				type: "item"
+			}]
+			title: "A Binding Core"
+			x: 9.6d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6E43A736C4DF4F0D"]
+			description: [
+				"Craft a binder for the Cindervane."
+				"Other dragon species have their own binders to pursue independently."
+			]
+			icon: "saintsdragons:cindervane_binder"
+			id: "73BAE448070D48EE"
+			subtitle: "Craft a Cindervane Binder"
+			rewards: [{
+				id: "C5825B374FAC4220"
+				type: "xp"
+				xp: 125
+			}]
+			tasks: [{
+				id: "EE7D2E9056624D23"
+				item: "saintsdragons:cindervane_binder"
+				type: "item"
+			}]
+			title: "The Cindervane Binder"
+			x: 12.0d
+			y: 0.0d
+		}
+		{
+			description: [
+				"Obtain a Worldroot Ingot and examine its equipment recipes."
+				"Explore this material path at your own pace."
+			]
+			icon: "saintsdragons:worldroot_ingot"
+			id: "AA6EC76D47B5434B"
+			subtitle: "Refine Worldroot"
+			rewards: [{
+				id: "0864EE3F997445E1"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [{
+				id: "54E31FB65CAC4CF4"
+				item: "saintsdragons:worldroot_ingot"
+				type: "item"
+			}]
+			title: "Worldroot"
+			x: 7.2d
+			y: 3.2d
+		}
+		{
+			dependencies: ["AA6EC76D47B5434B"]
+			description: [
+				"Craft Dragonheart Alloy for higher-tier dragon equipment."
+				"The recipe produces two alloy items per craft."
+			]
+			icon: "saintsdragons:dragonheart_alloy"
+			id: "FA9AB6AC2E844867"
+			subtitle: "Make Dragonheart Alloy"
+			rewards: [{
+				id: "38191B185A464CE9"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [{
+				id: "5E1AC77BC8A742BF"
+				item: "saintsdragons:dragonheart_alloy"
+				type: "item"
+			}]
+			title: "Dragonheart Forge"
+			x: 9.6d
+			y: 3.2d
+		}
+		{
+			dependencies: ["FA9AB6AC2E844867"]
+			description: [
+				"Craft the Dragonlord Sword as a long-term equipment milestone."
+				"Its Worldscar ability summons forward-facing magma pillars."
+			]
+			icon: "saintsdragons:dragonlord_sword"
+			id: "DCC01F30F93D48BE"
+			subtitle: "Forge the Dragonlord Sword"
+			rewards: [{
+				id: "0BF299012F264445"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "778B6CA287CC4188"
+				item: "saintsdragons:dragonlord_sword"
+				type: "item"
+			}]
+			title: "The Dragonlord"
+			x: 12.0d
+			y: 3.2d
+		}
+	]
+	title: "Saints Dragons"
+}

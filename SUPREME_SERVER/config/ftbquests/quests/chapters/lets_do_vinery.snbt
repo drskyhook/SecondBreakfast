@@ -12,6 +12,11 @@
 			icon: "vinery:red_grape_seeds"
 			id: "5502D65B81164082"
 			subtitle: "Start your vineyard"
+			rewards: [{
+				id: "FB8844AE70654446"
+				type: "xp"
+				xp: 125
+			}]
 			tasks: [{
 				id: "4D1B791CF7047FF4"
 				item: "vinery:red_grape_seeds"
@@ -22,10 +27,16 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["5502D65B81164082"]
 			description: ["Craft a fermentation barrel to process grapes."]
 			icon: "vinery:fermentation_barrel"
 			id: "580AF37C77F6DFBA"
 			subtitle: "Let it age"
+			rewards: [{
+				id: "0C2ED965A5394FAA"
+				type: "xp"
+				xp: 80
+			}]
 			tasks: [{
 				id: "6948086ADC389750"
 				item: "vinery:fermentation_barrel"
@@ -36,10 +47,16 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["580AF37C77F6DFBA"]
 			description: ["Produce any bottle of wine."]
 			icon: "vinery:apple_wine"
 			id: "1B7649C3D185D85A"
 			subtitle: "From vine to bottle"
+			rewards: [{
+				id: "74E0D46830354DB1"
+				type: "xp"
+				xp: 125
+			}]
 			tasks: [{
 				id: "5CED0EC7D0B2D8CF"
 				item: "vinery:apple_wine"
@@ -50,10 +67,16 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["1B7649C3D185D85A"]
 			description: ["Use Vinery mechanics to refine and improve your wine."]
 			icon: "vinery:wine_bottle"
 			id: "75C8EF2D11C19CB1"
 			subtitle: "Advanced techniques"
+			rewards: [{
+				id: "FDB70F62C5BD43A6"
+				type: "xp"
+				xp: 80
+			}]
 			tasks: [{
 				id: "19A1C24F7CFE647C"
 				item: "vinery:wine_bottle"
@@ -64,10 +87,16 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["75C8EF2D11C19CB1"]
 			description: ["Produce a glowing wine using advanced Vinery techniques."]
 			icon: "vinery:glowing_wine"
 			id: "5759FFF621C982EC"
 			subtitle: "Create rare wines"
+			rewards: [{
+				id: "CC03B26A26184253"
+				type: "xp"
+				xp: 80
+			}]
 			tasks: [{
 				id: "48C6C7F8935FB79F"
 				item: "vinery:glowing_wine"

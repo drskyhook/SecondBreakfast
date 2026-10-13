@@ -374,6 +374,10 @@
         "isSelected": false
       },
       {
+        "path": ".lazyyyyy\\pack-cache\\supplementaries_darker_ropes_cbaec306c5c8f8c69f93826e72b515c3.json.gz",
+        "isSelected": false
+      },
+      {
         "path": ".lazyyyyy\\pack-cache\\supplementaries_darker_ropes_f8e9c106ed996a56bb990d1a4ccf0b27.json.gz",
         "isSelected": false
       },
@@ -451,6 +455,26 @@
       },
       {
         "path": ".mixin.out\\class\\net\\minecraft\\world\\level\\Level.class",
+        "isSelected": false
+      },
+      {
+        "path": "chesttracker",
+        "isSelected": false
+      },
+      {
+        "path": "chesttracker\\connection_settings.dat",
+        "isSelected": false
+      },
+      {
+        "path": "chesttracker\\dksupreme.duckdns.org",
+        "isSelected": false
+      },
+      {
+        "path": "chesttracker\\dksupreme.duckdns.org\\overworld.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "chesttracker\\dksupreme.duckdns.org\\overworld.nbt.meta",
         "isSelected": false
       },
       {
@@ -1119,6 +1143,10 @@
       },
       {
         "path": "config\\chefsdelight-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\chesttracker.json5",
         "isSelected": true
       },
       {
@@ -1870,6 +1898,10 @@
         "isSelected": true
       },
       {
+        "path": "config\\ftbxmodcompat.snbt",
+        "isSelected": true
+      },
+      {
         "path": "config\\functionalarmortrim.json",
         "isSelected": true
       },
@@ -1951,14 +1983,6 @@
       },
       {
         "path": "config\\herbalbrews.toml",
-        "isSelected": true
-      },
-      {
-        "path": "config\\Hexerei-client.toml",
-        "isSelected": true
-      },
-      {
-        "path": "config\\Hexerei-common.toml",
         "isSelected": true
       },
       {
@@ -2602,6 +2626,10 @@
         "isSelected": true
       },
       {
+        "path": "config\\jeremyseqsdamageindicators.toml",
+        "isSelected": true
+      },
+      {
         "path": "config\\jeresources-common.toml",
         "isSelected": true
       },
@@ -2955,386 +2983,6 @@
       },
       {
         "path": "config\\mythsandlegends-common.toml",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\amphibious_hands.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\blaze_nucleus.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\blindfold.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\broken_ankh.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\broken_magnet.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\callus.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\cracked_crown.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\creeper_sense.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\dark_nelumbo.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\dragons_eye.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\electric_paddle.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\ethereal_wings.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\experience_battery.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\experience_magnet.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\explosion_proof_jacket.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\fate_emerald.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\fertilizer.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\four_leaf_clover.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\fractured_nullstone.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\fragile_cloud.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\ghast_eye.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\gills.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\gods_crown.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\ice_cube.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\light_gloves.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\lucky_rock.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\miners_soul.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\missing_page.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\moon_stone.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\nelumbo.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\pocket_lightning_rod.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\puffer_fish_liver.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\rage_mind.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\reforger.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\reverse_card.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\scarab_amulet.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\sigil_of_baphomet.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\sleeping_pills.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\speed_force.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\spider_legs.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\super_magnet.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\tear_of_the_sea.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\tick.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\trinket_loot_configs",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\trinket_loot_configs\\amphibious_hands.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\trinket_loot_configs\\blaze_nucleus.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\trinket_loot_configs\\blindfold.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\trinket_loot_configs\\broken_ankh.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\trinket_loot_configs\\broken_magnet.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\trinket_loot_configs\\callus.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\trinket_loot_configs\\cracked_crown.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\trinket_loot_configs\\creeper_sense.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\trinket_loot_configs\\dark_nelumbo.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\trinket_loot_configs\\dragons_eye.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\trinket_loot_configs\\electric_paddle.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\trinket_loot_configs\\ethereal_wings.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\trinket_loot_configs\\experience_battery.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\trinket_loot_configs\\experience_magnet.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\trinket_loot_configs\\explosion_proof_jacket.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\trinket_loot_configs\\fate_emerald.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\trinket_loot_configs\\fertilizer.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\trinket_loot_configs\\four_leaf_clover.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\trinket_loot_configs\\fractured_nullstone.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\trinket_loot_configs\\fragile_cloud.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\trinket_loot_configs\\ghast_eye.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\trinket_loot_configs\\gills.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\trinket_loot_configs\\ice_cube.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\trinket_loot_configs\\light_gloves.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\trinket_loot_configs\\lucky_rock.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\trinket_loot_configs\\miners_soul.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\trinket_loot_configs\\missing_page.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\trinket_loot_configs\\moon_stone.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\trinket_loot_configs\\nelumbo.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\trinket_loot_configs\\pocket_lightning_rod.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\trinket_loot_configs\\puffer_fish_liver.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\trinket_loot_configs\\rage_mind.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\trinket_loot_configs\\reforger.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\trinket_loot_configs\\reverse_card.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\trinket_loot_configs\\scarab_amulet.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\trinket_loot_configs\\sigil_of_baphomet.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\trinket_loot_configs\\sleeping_pills.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\trinket_loot_configs\\speed_force.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\trinket_loot_configs\\spider_legs.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\trinket_loot_configs\\super_magnet.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\trinket_loot_configs\\tear_of_the_sea.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\trinket_loot_configs\\tick.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\trinket_loot_configs\\true_heart_of_the_sea.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\trinket_loot_configs\\vampire_blood.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\trinket_loot_configs\\what_magnet.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\trinket_loot_configs\\wooden_stick.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\true_heart_of_the_sea.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\vampire_blood.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\what_magnet.json",
-        "isSelected": true
-      },
-      {
-        "path": "config\\nameless_trinkets\\wooden_stick.json",
         "isSelected": true
       },
       {
@@ -3982,6 +3630,10 @@
         "isSelected": true
       },
       {
+        "path": "config\\shellbound-for-airship.toml",
+        "isSelected": true
+      },
+      {
         "path": "config\\shieldexp-common.json",
         "isSelected": true
       },
@@ -4139,6 +3791,10 @@
       },
       {
         "path": "config\\spells_and_shields\\common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\SpiderOverhaul.json",
         "isSelected": true
       },
       {
@@ -4674,6 +4330,14 @@
         "isSelected": false
       },
       {
+        "path": "defaultconfigs\\ftbxmodcompat",
+        "isSelected": false
+      },
+      {
+        "path": "defaultconfigs\\ftbxmodcompat\\ftbxmodcompat.snbt",
+        "isSelected": false
+      },
+      {
         "path": "downloads",
         "isSelected": false
       },
@@ -4794,23 +4458,23 @@
         "isSelected": false
       },
       {
-        "path": "local\\crash_assistant\\38248_1791394665580_app.jar",
+        "path": "local\\crash_assistant\\14040_1791828954665_app.jar",
         "isSelected": false
       },
       {
-        "path": "local\\crash_assistant\\38248_1791394665580_args.info",
+        "path": "local\\crash_assistant\\14040_1791828954665_args.info",
         "isSelected": false
       },
       {
-        "path": "local\\crash_assistant\\38248_1791394665580_gpu-detect-jni.dll",
+        "path": "local\\crash_assistant\\14040_1791828954665_gpu-detect-jni.dll",
         "isSelected": false
       },
       {
-        "path": "local\\crash_assistant\\38248_1791394665580_mod.jar",
+        "path": "local\\crash_assistant\\14040_1791828954665_mod.jar",
         "isSelected": false
       },
       {
-        "path": "local\\crash_assistant\\38248_1791394665580.info",
+        "path": "local\\crash_assistant\\14040_1791828954665.info",
         "isSelected": false
       },
       {
@@ -6922,6 +6586,10 @@
         "isSelected": false
       },
       {
+        "path": "local\\crash_assistant\\mod_data_cache_v5\\AmbientSounds_FORGE_v6.3.10_mc1.20.1.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
         "path": "local\\crash_assistant\\mod_data_cache_v5\\AmbientSounds_FORGE_v6.3.8_mc1.20.1.jar.mod_data.json",
         "isSelected": false
       },
@@ -6971,6 +6639,10 @@
       },
       {
         "path": "local\\crash_assistant\\mod_data_cache_v5\\AsyncParticles-20.1.4.0-beta.2+1.20.1.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v5\\AsyncParticles-20.1.4.1+1.20.1.jar.mod_data.json",
         "isSelected": false
       },
       {
@@ -7203,6 +6875,10 @@
       },
       {
         "path": "local\\crash_assistant\\mod_data_cache_v5\\chefsdelight-1.0.4-forge-1.20.1.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v5\\chesttracker-forge-1.0.jar.mod_data.json",
         "isSelected": false
       },
       {
@@ -7522,6 +7198,10 @@
         "isSelected": false
       },
       {
+        "path": "local\\crash_assistant\\mod_data_cache_v5\\entityculling-forge-1.11.3-mc1.20.1.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
         "path": "local\\crash_assistant\\mod_data_cache_v5\\EquipmentCompare-1.20.1-forge-1.3.7.jar.mod_data.json",
         "isSelected": false
       },
@@ -7638,6 +7318,10 @@
         "isSelected": false
       },
       {
+        "path": "local\\crash_assistant\\mod_data_cache_v5\\friendsandfoes-forge-5.0.2+mc1.20.1.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
         "path": "local\\crash_assistant\\mod_data_cache_v5\\friendsandfoes-forge-mc1.20.1-3.0.9.jar.mod_data.json",
         "isSelected": false
       },
@@ -7654,7 +7338,19 @@
         "isSelected": false
       },
       {
+        "path": "local\\crash_assistant\\mod_data_cache_v5\\ftb-quests-forge-2001.4.22.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
         "path": "local\\crash_assistant\\mod_data_cache_v5\\ftb-teams-forge-2001.3.2.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v5\\ftb-xmod-compat-forge-2.1.3.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v5\\FTBQuestsOptimizer-forge-2.1.0-1.20.1.jar.mod_data.json",
         "isSelected": false
       },
       {
@@ -7867,6 +7563,10 @@
       },
       {
         "path": "local\\crash_assistant\\mod_data_cache_v5\\jamlib-forge-1.3.6+1.20.1-patch.1.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v5\\jdamageindicators-forge-1.20.1-2.3.0.jar.mod_data.json",
         "isSelected": false
       },
       {
@@ -8122,6 +7822,10 @@
         "isSelected": false
       },
       {
+        "path": "local\\crash_assistant\\mod_data_cache_v5\\mythsandlegends-1.0.6.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
         "path": "local\\crash_assistant\\mod_data_cache_v5\\Necronomicon-Forge-1.6.0+1.20.1.jar.mod_data.json",
         "isSelected": false
       },
@@ -8223,6 +7927,10 @@
       },
       {
         "path": "local\\crash_assistant\\mod_data_cache_v5\\PuzzlesLib-v8.1.33-1.20.1-Forge.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v5\\PuzzlesLib-v8.1.36-1.20.1-Forge.jar.mod_data.json",
         "isSelected": false
       },
       {
@@ -8342,6 +8050,10 @@
         "isSelected": false
       },
       {
+        "path": "local\\crash_assistant\\mod_data_cache_v5\\shellbound-for-airship-forge-1.2.1.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
         "path": "local\\crash_assistant\\mod_data_cache_v5\\shieldexp-forge-1.20.1-1.3.7.jar.mod_data.json",
         "isSelected": false
       },
@@ -8350,11 +8062,19 @@
         "isSelected": false
       },
       {
+        "path": "local\\crash_assistant\\mod_data_cache_v5\\shippy_ships-201.25.1-FORGE.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
         "path": "local\\crash_assistant\\mod_data_cache_v5\\simple_snowy_fix-forge-1.19-1.20.1-2.1.5.jar.mod_data.json",
         "isSelected": false
       },
       {
         "path": "local\\crash_assistant\\mod_data_cache_v5\\SimpleBackups-1.20.1-3.1.18.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v5\\sky_whale_ship-1.20.1.jar.mod_data.json",
         "isSelected": false
       },
       {
@@ -8398,6 +8118,10 @@
         "isSelected": false
       },
       {
+        "path": "local\\crash_assistant\\mod_data_cache_v5\\SpiderOverhaul-0.0.6-Forge-v1.20.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
         "path": "local\\crash_assistant\\mod_data_cache_v5\\stalwart-dungeons-1.20.1-1.2.8.jar.mod_data.json",
         "isSelected": false
       },
@@ -8431,6 +8155,10 @@
       },
       {
         "path": "local\\crash_assistant\\mod_data_cache_v5\\supplementaries-1.20-3.1.43-forge.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v5\\supplementaries-1.20-3.1.44-forge.jar.mod_data.json",
         "isSelected": false
       },
       {
@@ -8778,15 +8506,63 @@
         "isSelected": false
       },
       {
-        "path": "local\\crash_assistant\\normal_stop_pid38248.tmp",
+        "path": "local\\crash_assistant\\modlist_history\\1791399779635.json",
         "isSelected": false
       },
       {
-        "path": "local\\crash_assistant\\renderer_pid38248.tmp",
+        "path": "local\\crash_assistant\\modlist_history\\1791406818839.json",
         "isSelected": false
       },
       {
-        "path": "local\\crash_assistant\\successful_launch_pid38248.tmp",
+        "path": "local\\crash_assistant\\modlist_history\\1791414967720.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\modlist_history\\1791504931316.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\modlist_history\\1791599742669.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\modlist_history\\1791731431125.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\modlist_history\\1791733262453.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\modlist_history\\1791733941061.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\modlist_history\\1791738603819.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\modlist_history\\1791814469064.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\modlist_history\\1791827393913.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\modlist_history\\1791828954665.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\normal_stop_pid14040.tmp",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\renderer_pid14040.tmp",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\successful_launch_pid14040.tmp",
         "isSelected": false
       },
       {
@@ -9298,11 +9074,51 @@
         "isSelected": false
       },
       {
-        "path": "logs\\crash_assistant",
+        "path": "logs\\2026-10-07-4.log.gz",
         "isSelected": false
       },
       {
-        "path": "logs\\crash_assistant\\crash_assistant_app_2026-06-30_17-34-51.log.gz",
+        "path": "logs\\2026-10-07-5.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2026-10-07-6.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2026-10-08-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2026-10-09-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2026-10-11-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2026-10-11-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2026-10-11-3.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2026-10-11-4.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2026-10-12-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2026-10-12-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\crash_assistant",
         "isSelected": false
       },
       {
@@ -9494,6 +9310,54 @@
         "isSelected": false
       },
       {
+        "path": "logs\\crash_assistant\\crash_assistant_app_2026-10-07_12-37-54.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\crash_assistant\\crash_assistant_app_2026-10-07_14-03-07.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\crash_assistant\\crash_assistant_app_2026-10-07_16-00-26.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\crash_assistant\\crash_assistant_app_2026-10-07_18-16-15.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\crash_assistant\\crash_assistant_app_2026-10-08_19-15-50.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\crash_assistant\\crash_assistant_app_2026-10-09_21-36-08.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\crash_assistant\\crash_assistant_app_2026-10-11_10-10-58.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\crash_assistant\\crash_assistant_app_2026-10-11_10-41-12.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\crash_assistant\\crash_assistant_app_2026-10-11_10-52-28.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\crash_assistant\\crash_assistant_app_2026-10-11_12-10-13.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\crash_assistant\\crash_assistant_app_2026-10-12_09-14-57.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\crash_assistant\\crash_assistant_app_2026-10-12_12-50-12.log.gz",
+        "isSelected": false
+      },
+      {
         "path": "logs\\crash_assistant\\crash_assistant_app.log",
         "isSelected": false
       },
@@ -9539,18 +9403,6 @@
       },
       {
         "path": "logs\\telemetry",
-        "isSelected": false
-      },
-      {
-        "path": "logs\\telemetry\\20261005-1.json.gz",
-        "isSelected": false
-      },
-      {
-        "path": "logs\\telemetry\\20261005-2.json.gz",
-        "isSelected": false
-      },
-      {
-        "path": "logs\\telemetry\\20261005-3.json.gz",
         "isSelected": false
       },
       {
@@ -12522,7 +12374,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\AmbientSounds_FORGE_v6.3.9_mc1.20.1.jar",
+        "path": "mods\\AmbientSounds_FORGE_v6.3.10_mc1.20.1.jar",
         "isSelected": true
       },
       {
@@ -12562,7 +12414,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\AsyncParticles-20.1.4.0-beta.2+1.20.1.jar",
+        "path": "mods\\AsyncParticles-20.1.4.1+1.20.1.jar",
         "isSelected": true
       },
       {
@@ -12770,6 +12622,10 @@
         "isSelected": true
       },
       {
+        "path": "mods\\chesttracker-forge-1.0.jar",
+        "isSelected": true
+      },
+      {
         "path": "mods\\Chimes-v2.1.1-1.20.1-Forge.jar",
         "isSelected": true
       },
@@ -12907,10 +12763,6 @@
       },
       {
         "path": "mods\\CutThrough-v8.0.2-1.20.1-Forge.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\damageindicator-2.2.1-1.20.1.jar",
         "isSelected": true
       },
       {
@@ -13054,7 +12906,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\entityculling-forge-1.11.2-mc1.20.1.jar",
+        "path": "mods\\entityculling-forge-1.11.3-mc1.20.1.jar",
         "isSelected": true
       },
       {
@@ -13166,7 +13018,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\friendsandfoes-forge-mc1.20.1-3.0.9.jar",
+        "path": "mods\\friendsandfoes-forge-5.0.2+mc1.20.1.jar",
         "isSelected": true
       },
       {
@@ -13178,7 +13030,15 @@
         "isSelected": true
       },
       {
+        "path": "mods\\ftb-quests-forge-2001.4.22.jar",
+        "isSelected": true
+      },
+      {
         "path": "mods\\ftb-teams-forge-2001.3.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ftb-xmod-compat-forge-2.1.3.jar",
         "isSelected": true
       },
       {
@@ -13342,6 +13202,10 @@
         "isSelected": true
       },
       {
+        "path": "mods\\jdamageindicators-forge-1.20.1-2.3.0.jar",
+        "isSelected": true
+      },
+      {
         "path": "mods\\jeed-1.20-2.2.6.jar",
         "isSelected": true
       },
@@ -13498,10 +13362,6 @@
         "isSelected": true
       },
       {
-        "path": "mods\\medieval_buildings-1.20.1-1.1.3-forge.jar",
-        "isSelected": true
-      },
-      {
         "path": "mods\\mezz_config-1.20.1-forge-0.6.8.jar",
         "isSelected": true
       },
@@ -13515,10 +13375,6 @@
       },
       {
         "path": "mods\\misctweaks-1.1.4+1.20.1.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\modernfix-forge-5.27.85+mc1.20.1.jar",
         "isSelected": true
       },
       {
@@ -13570,7 +13426,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\mythsandlegends-1.0.5.jar",
+        "path": "mods\\mythsandlegends-1.0.6.jar",
         "isSelected": true
       },
       {
@@ -13674,7 +13530,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+        "path": "mods\\PuzzlesLib-v8.1.36-1.20.1-Forge.jar",
         "isSelected": true
       },
       {
@@ -13794,11 +13650,15 @@
         "isSelected": true
       },
       {
+        "path": "mods\\shellbound-for-airship-forge-1.2.1.jar",
+        "isSelected": true
+      },
+      {
         "path": "mods\\shieldexp-forge-1.20.1-1.3.7.jar",
         "isSelected": true
       },
       {
-        "path": "mods\\shippy_ships-1.0.17.6-FORGE-MC-1.20.1.jar",
+        "path": "mods\\shippy_ships-201.25.1-FORGE.jar",
         "isSelected": true
       },
       {
@@ -13807,6 +13667,10 @@
       },
       {
         "path": "mods\\SimpleBackups-1.20.1-3.1.18.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\sky_whale_ship-1.20.1.jar",
         "isSelected": true
       },
       {
@@ -13846,6 +13710,10 @@
         "isSelected": true
       },
       {
+        "path": "mods\\SpiderOverhaul-0.0.6-Forge-v1.20.jar",
+        "isSelected": true
+      },
+      {
         "path": "mods\\stalwart-dungeons-1.20.1-1.2.8.jar",
         "isSelected": true
       },
@@ -13874,7 +13742,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\supplementaries-1.20-3.1.43-forge.jar",
+        "path": "mods\\supplementaries-1.20-3.1.44-forge.jar",
         "isSelected": true
       },
       {
@@ -13963,18 +13831,6 @@
       },
       {
         "path": "mods\\uranus-2.2.6-bugfix.2-1.20.1-forge.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\valhelsia_core-forge-1.20.1-1.1.2.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\valhelsia_furniture-forge-1.20.1-1.1.3.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\valhelsia_structures-forge-1.20.1-1.1.2.jar",
         "isSelected": true
       },
       {
@@ -14124,14 +13980,6 @@
       {
         "path": "mods\\zfastnoise-1.0.13+1.20+forge.jar",
         "isSelected": true
-      },
-      {
-        "path": "mods_disabled",
-        "isSelected": false
-      },
-      {
-        "path": "mods_disabled\\Thalassophobia-forge-1.20.1-1.7.2.jar",
-        "isSelected": false
       },
       {
         "path": "moonlight-global-datapacks",
@@ -14574,6 +14422,10 @@
         "isSelected": false
       },
       {
+        "path": "xaero\\world-map\\Multiplayer_dksupreme.duckdns.org\\null\\mw$default\\cache\\1\\-1_0.xwmc",
+        "isSelected": false
+      },
+      {
         "path": "xaero\\world-map\\Multiplayer_dksupreme.duckdns.org\\null\\mw$default\\cache\\1\\-2_-1.xwmc",
         "isSelected": false
       },
@@ -14618,6 +14470,10 @@
         "isSelected": false
       },
       {
+        "path": "xaero\\world-map\\Multiplayer_dksupreme.duckdns.org\\null\\mw$default\\cache\\1\\0_0.xwmc",
+        "isSelected": false
+      },
+      {
         "path": "xaero\\world-map\\Multiplayer_dksupreme.duckdns.org\\null\\mw$default\\cache\\2",
         "isSelected": false
       },
@@ -14646,6 +14502,10 @@
         "isSelected": false
       },
       {
+        "path": "xaero\\world-map\\Multiplayer_dksupreme.duckdns.org\\null\\mw$default\\cache\\2\\0_0.xwmc",
+        "isSelected": false
+      },
+      {
         "path": "xaero\\world-map\\Multiplayer_dksupreme.duckdns.org\\null\\mw$default\\cache\\3",
         "isSelected": false
       },
@@ -14663,6 +14523,10 @@
       },
       {
         "path": "xaero\\world-map\\Multiplayer_dksupreme.duckdns.org\\null\\mw$default\\cache\\3\\-2_1.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\Multiplayer_dksupreme.duckdns.org\\null\\mw$default\\cache\\3\\0_0.xwmc",
         "isSelected": false
       },
       {
@@ -14730,11 +14594,11 @@
         "isSelected": false
       },
       {
-        "path": "xaero\\world-map\\Multiplayer_dksupreme.duckdns.org\\null\\mw$default\\cache_1\\-5_3.xwmc.outdated",
+        "path": "xaero\\world-map\\Multiplayer_dksupreme.duckdns.org\\null\\mw$default\\cache_1\\-5_3.xwmc",
         "isSelected": false
       },
       {
-        "path": "xaero\\world-map\\Multiplayer_dksupreme.duckdns.org\\null\\mw$default\\cache_1\\-6_2.xwmc",
+        "path": "xaero\\world-map\\Multiplayer_dksupreme.duckdns.org\\null\\mw$default\\cache_1\\-6_2.xwmc.outdated",
         "isSelected": false
       },
       {
@@ -14754,7 +14618,7 @@
         "isSelected": false
       },
       {
-        "path": "xaero\\world-map\\Multiplayer_dksupreme.duckdns.org\\null\\mw$default\\cache_1\\-7_5.xwmc.outdated",
+        "path": "xaero\\world-map\\Multiplayer_dksupreme.duckdns.org\\null\\mw$default\\cache_1\\-7_5.xwmc",
         "isSelected": false
       },
       {
@@ -14774,7 +14638,7 @@
         "isSelected": false
       },
       {
-        "path": "xaero\\world-map\\Multiplayer_dksupreme.duckdns.org\\null\\mw$default\\cache_1\\-8_4.xwmc",
+        "path": "xaero\\world-map\\Multiplayer_dksupreme.duckdns.org\\null\\mw$default\\cache_1\\-8_4.xwmc.outdated",
         "isSelected": false
       },
       {
@@ -14810,7 +14674,7 @@
         "isSelected": false
       },
       {
-        "path": "xaero\\world-map\\Multiplayer_dksupreme.duckdns.org\\null\\mw$default\\cache_1\\0_0.xwmc.outdated",
+        "path": "xaero\\world-map\\Multiplayer_dksupreme.duckdns.org\\null\\mw$default\\cache_1\\0_0.xwmc",
         "isSelected": false
       },
       {
@@ -15846,6 +15710,10 @@
         "isSelected": false
       },
       {
+        "path": "xaero\\world-map\\Multiplayer_dksupreme.duckdns.org\\null\\mw$default\\caves\\5\\-7_4.zip",
+        "isSelected": false
+      },
+      {
         "path": "xaero\\world-map\\Multiplayer_dksupreme.duckdns.org\\null\\mw$default\\caves\\5\\-7_7.zip",
         "isSelected": false
       },
@@ -15903,6 +15771,10 @@
       },
       {
         "path": "xaero\\world-map\\Multiplayer_dksupreme.duckdns.org\\null\\mw$default\\caves\\5\\cache_1\\-7_3.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\Multiplayer_dksupreme.duckdns.org\\null\\mw$default\\caves\\5\\cache_1\\-7_4.xwmc",
         "isSelected": false
       },
       {
