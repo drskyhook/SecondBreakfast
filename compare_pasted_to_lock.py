@@ -55,8 +55,8 @@ paste_list = [
 ]
 
 lock_paths = [
-    Path('SUPREME_SERVER/mods/mods.lock.txt'),
-    Path('SUPREME_CLIENT/mods/mods.lock.txt')
+    Path('SERVER/mods/mods.lock.txt'),
+    Path('CLIENT/mods/mods.lock.txt')
 ]
 
 pattern = re.compile(r'\s*(?:\[forge\]|\[FORGE\]|\[Forge\])?(.+?)(?:\.jar)?\s*$', re.I)

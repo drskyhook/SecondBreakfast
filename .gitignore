@@ -1,48 +1,103 @@
+﻿
 ####################################
-# OS / Editor noise
+# SECOND BREAKFAST
+# Minecraft Forge 1.20.1 Modpack
+####################################
+
+####################################
+# OS / IDE / Python
 ####################################
 .DS_Store
 Thumbs.db
-*.swp
-*.swo
+desktop.ini
 .vscode/
 .idea/
+.vs/
+__pycache__/
+*.pyc
+*.swp
+*.swo
 
 ####################################
-# Logs / crash reports 
+# Logs / crashes / diagnostics
 ####################################
 **/logs/
 **/crash-reports/
-**/*.log
 **/debug/
-hs_err_pid*.log
+**/*.log
+**/hs_err_pid*
+**/win_event*.txt
+**/replay_pid*
 
 ####################################
-# Minecraft WORLD DATA 
+# Minecraft worlds / player data
 ####################################
-SUPREME_SERVER/world/
-SUPREME_SERVER/world_nether/
-SUPREME_SERVER/world_the_end/
-SUPREME_SERVER/dimensions/
-SUPREME_SERVER/playerdata/
-SUPREME_SERVER/stats/
-SUPREME_SERVER/advancements/
-SUPREME_SERVER/region/
-SUPREME_SERVER/serverconfig/
+CLIENT/saves/
+SERVER/world/
+SERVER/world_*/
+SERVER/world*/
+SERVER/*backup*/
+SERVER/dimensions/
+SERVER/playerdata/
+SERVER/stats/
+SERVER/advancements/
+SERVER/region/
+SERVER/serverconfig/
+
+# World backups anywhere
+**/world_backup*/
+**/backups/
+**/simplebackups/
 
 ####################################
-# Client runtime junk
+# Personal Minecraft settings
 ####################################
-SUPREME_CLIENT/logs/
-SUPREME_CLIENT/crash-reports/
-SUPREME_CLIENT/journeymap/
-SUPREME_CLIENT/XaeroWaypoints/
-SUPREME_CLIENT/XaeroWorldMap/
-SUPREME_CLIENT/xaero/
-SUPREME_CLIENT/.blinkload/
-SUPREME_CLIENT/screenshots/
-SUPREME_CLIENT/local/
-SUPREME_CLIENT/server-resource-packs/
+**/options.txt
+**/optionsof.txt
+**/optionsshaders.txt
+**/servers.dat
+**/servers.dat_old
+**/usercache.json
+**/usernamecache.json
+**/user-prefs.json
+**/session.lock
+**/launcher_profiles.json
+**/launcher_accounts.json
+
+# CurseForge instance metadata
+CLIENT/minecraftinstance.json
+
+####################################
+# Client runtime / map data
+####################################
+CLIENT/journeymap/
+CLIENT/XaeroWaypoints/
+CLIENT/XaeroWorldMap/
+CLIENT/xaero/
+CLIENT/.blinkload/
+CLIENT/screenshots/
+CLIENT/local/
+CLIENT/server-resource-packs/
+CLIENT/downloads/
+CLIENT/webcache/
+
+####################################
+# Server runtime / generated data
+####################################
+SERVER/libraries/
+SERVER/local/
+SERVER/.mixin.out/
+SERVER/.lazyyyyy/
+SERVER/modernfix/
+SERVER/ops.json
+SERVER/whitelist.json
+SERVER/banned-ips.json
+SERVER/banned-players.json
+SERVER/eula.txt
+SERVER/server.properties
+SERVER/user_jvm_args.txt
+SERVER/server_*.log
+SERVER/mods_disabled/
 
 ####################################
 # Forge / modloader caches
@@ -50,67 +105,96 @@ SUPREME_CLIENT/server-resource-packs/
 **/.cache/
 **/cache/
 **/caches/
+**/.mixin.out/
 **/spark/
 **/config/.cache/
 **/config/**/generated/
+**/config/chunky/tasks/
+**/config/roadweaver/structure_cache.json
 
 ####################################
-# Mods: DO NOT commit JARs
+# Mod binaries
 ####################################
-SUPREME_SERVER/mods/*.jar
-SUPREME_CLIENT/mods/*.jar
+CLIENT/mods/*.jar
+SERVER/mods/*.jar
 
-# Allow mod lists / manifests 
-!SUPREME_SERVER/mods/modlist.*
-!SUPREME_CLIENT/mods/modlist.*
-!SUPREME_SERVER/mods/manifest.json
-!SUPREME_CLIENT/mods/manifest.json
-!SUPREME_SERVER/mods/.index/**
-!SUPREME_CLIENT/mods/.index/**
+# Keep mod manifests and lock files
+!CLIENT/mods/*.txt
+!SERVER/mods/*.txt
+!CLIENT/mods/*.json
+!SERVER/mods/*.json
+!CLIENT/mods/.index/
+!SERVER/mods/.index/
+!CLIENT/mods/.index/**
+!SERVER/mods/.index/**
 
 ####################################
-# Backups / exports
+# Archives / backups / temp files
 ####################################
+/backups/
 *.bak
 *.old
+*.tmp
+*.temp
 *.zip
 *.7z
+*.rar
 *.tar
 *.gz
 
 ####################################
-# Keep curated configs & scripts
+# Forge installers / generated jars
 ####################################
-!SUPREME_SERVER/config/**
-!SUPREME_CLIENT/config/**
-!SUPREME_SERVER/defaultconfigs/**
-!SUPREME_SERVER/kubejs/**
-!SUPREME_CLIENT/kubejs/**
+SERVER/forge-*-installer.jar
+SERVER/forge-*-installer.jar.log
 
-#
 ####################################
-# Documentation 
+# Explicitly preserve project content
 ####################################
+
+
+# KubeJS scripts and assets
+!CLIENT/kubejs/
+!CLIENT/kubejs/**
+!SERVER/kubejs/
+!SERVER/kubejs/**
+
+# Other gameplay scripts
+!CLIENT/scripts/
+!CLIENT/scripts/**
+!SERVER/scripts/
+!SERVER/scripts/**
+
+# Documentation
 !README.md
+!CHANGELOG.md
 !CONFIG_NOTES.md
+!*.md
 
-####################################
-# Extra server runtime/generated
-####################################
-SUPREME_SERVER/libraries/
-SUPREME_SERVER/local/
-SUPREME_SERVER/.mixin.out/
-SUPREME_SERVER/.lazyyyyy/
-SUPREME_SERVER/modernfix/
-SUPREME_SERVER/server_*.log
-SUPREME_SERVER/usercache.json
-SUPREME_SERVER/usernamecache.json
+# Ignore generated data within configs
+**/config/**/cache/
+**/config/**/caches/
+**/config/**/spark/
+**/config/spark/
+**/config/**/world/
+**/config/**/server/
 
-# Forge installer artifacts (not needed)
-SUPREME_SERVER/forge-*-installer.jar
-SUPREME_SERVER/forge-*-installer.jar.log
+# Gitignore backup
+.gitignore.backup
 
-# If you keep disabled mods as a parking lot, ignore it
-SUPREME_SERVER/mods_disabled/
-SUPREME_CLIENT/.mixin.out/
-SUPREME_CLIENT/minecraftinstance.json
+# Local project backups
+/backups/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Generated client files
+**/.blinkload/
+**/.lazyyyyy/
+**/.mixin.out/
+**/chesttracker/
+**/.curseclient
+
+# Runtime diagnostics
+**/config/spark/

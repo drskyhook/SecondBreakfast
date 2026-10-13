@@ -4,13 +4,13 @@ $Changelog = ".\CHANGELOG.md"
 $Locks = @(
     @{
         Label = "Server Mods"
-        ModsPath = ".\SUPREME_SERVER\mods"
-        LockPath = "SUPREME_SERVER/mods/mods.lock.txt"
+        ModsPath = ".\SERVER\mods"
+        LockPath = "SERVER/mods/mods.lock.txt"
     },
     @{
         Label = "Client Mods"
-        ModsPath = ".\SUPREME_CLIENT\mods"
-        LockPath = "SUPREME_CLIENT/mods/mods.lock.txt"
+        ModsPath = ".\CLIENT\mods"
+        LockPath = "CLIENT/mods/mods.lock.txt"
     }
 )
 

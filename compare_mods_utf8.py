@@ -1,7 +1,7 @@
 import os
 import re
 
-mod_dir = r'C:\DK_FORGE_SUPREME\SUPREME_MODPACK\SUPREME_SERVER\mods'
+mod_dir = r'C:\SecondBreakfast\SERVER\mods'
 files = [f for f in os.listdir(mod_dir) if f.lower().endswith('.jar')]
 
 def normalize(name):
