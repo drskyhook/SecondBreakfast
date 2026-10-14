@@ -5,7 +5,7 @@
 	group: "600AC9ABAC26F3D9"
 	icon: "irons_spellbooks:copper_spell_book"
 	id: "1C4D78C3AD79FFC6"
-	order_index: 11
+	order_index: 4
 	quest_links: [ ]
 	quests: [
 		{
@@ -15,12 +15,12 @@
 			]
 			icon: "irons_spellbooks:copper_spell_book"
 			id: "3162A41B87A726CA"
-			subtitle: "Begin your studies"
 			rewards: [{
-				id: "F9D8B8A4DD144665"
+				id: "601C3097A522E5A6"
 				type: "xp"
 				xp: 125
 			}]
+			subtitle: "Begin your studies"
 			tasks: [{
 				id: "2FCD0EB842FC07C1"
 				item: "irons_spellbooks:copper_spell_book"
@@ -38,12 +38,12 @@
 			]
 			icon: "irons_spellbooks:copper_spell_book"
 			id: "40D6D124944DEA73"
-			subtitle: "Equip the book"
 			rewards: [{
 				id: "48F3DB61871840C6"
 				type: "xp"
 				xp: 80
 			}]
+			subtitle: "Equip the book"
 			tasks: [{
 				id: "067EF4F2B162B131"
 				type: "checkmark"
@@ -60,12 +60,12 @@
 			]
 			icon: "irons_spellbooks:inscription_table"
 			id: "12D86CBC22D6CEF4"
-			subtitle: "Spells are written, not found"
 			rewards: [{
-				id: "8BC2623333B1438B"
+				id: "7B9F3F95E7D162E8"
 				type: "xp"
 				xp: 80
 			}]
+			subtitle: "Spells are written, not found"
 			tasks: [{
 				id: "547B2B697C07C7FE"
 				item: "irons_spellbooks:inscription_table"
@@ -84,12 +84,12 @@
 			]
 			icon: "irons_spellbooks:scroll"
 			id: "5904906CF86C4920"
-			subtitle: "Knowledge must be studied"
 			rewards: [{
 				id: "26A71CC699CF4620"
 				type: "xp"
 				xp: 80
 			}]
+			subtitle: "Knowledge must be studied"
 			tasks: [{
 				id: "63E9226A902EFB0B"
 				item: "irons_spellbooks:scroll.unlearned"
@@ -106,12 +106,12 @@
 			]
 			icon: "irons_spellbooks:common_ink"
 			id: "2FB25DC402C3F26F"
-			subtitle: "Ink determines power"
 			rewards: [{
-				id: "BF122A6A59174BC2"
+				id: "6AFB5BA9163C6C92"
 				type: "xp"
 				xp: 80
 			}]
+			subtitle: "Ink determines power"
 			tasks: [{
 				id: "188D6777494F408B"
 				item: "irons_spellbooks:common_ink"
@@ -129,12 +129,12 @@
 			]
 			icon: "irons_spellbooks:scroll_forge"
 			id: "62335C9D0FE8A94D"
-			subtitle: "Craft your own spells"
 			rewards: [{
 				id: "40339AD753824FF1"
 				type: "xp"
 				xp: 250
 			}]
+			subtitle: "Craft your own spells"
 			tasks: [{
 				id: "6AF75EDAD77591EC"
 				item: "irons_spellbooks:scroll_forge"
@@ -153,12 +153,12 @@
 			]
 			icon: "irons_spellbooks:scroll"
 			id: "0CDC95CD8725AA8C"
-			subtitle: "Use your spell"
 			rewards: [{
-				id: "DE4B9487383C469B"
+				id: "34EBF0934721A136"
 				type: "xp"
 				xp: 125
 			}]
+			subtitle: "Use your spell"
 			tasks: [{
 				id: "0921A52D0E48BA91"
 				type: "checkmark"
@@ -174,12 +174,12 @@
 			]
 			icon: "irons_spellbooks:iron_spell_book"
 			id: "06F5CDEB08FFD4F4"
-			subtitle: "Upgrade your capacity"
 			rewards: [{
 				id: "28CC02A584F84616"
 				type: "xp"
 				xp: 125
 			}]
+			subtitle: "Upgrade your capacity"
 			tasks: [{
 				id: "6B55997BEBC10551"
 				item: "irons_spellbooks:iron_spell_book"
@@ -197,12 +197,12 @@
 			]
 			icon: "irons_spellbooks:arcane_anvil"
 			id: "7CD2B82000403D98"
-			subtitle: "Enhance your power"
 			rewards: [{
-				id: "C35DEDBE594C4DFB"
+				id: "47352E800A91379F"
 				type: "xp"
 				xp: 80
 			}]
+			subtitle: "Enhance your power"
 			tasks: [{
 				id: "41D006FAD1FB787C"
 				item: "irons_spellbooks:arcane_anvil"
@@ -220,12 +220,12 @@
 			]
 			icon: "irons_spellbooks:ice_staff"
 			id: "4928039B1A22EA6A"
-			subtitle: "Wield greater magic"
 			rewards: [{
 				id: "24279F676F97460F"
 				type: "xp"
 				xp: 80
 			}]
+			subtitle: "Wield greater magic"
 			tasks: [{
 				id: "55041BAF0CE2A030"
 				item: "irons_spellbooks:ice_staff"
@@ -248,12 +248,12 @@
 				}
 			}
 			id: "5D8E8CDE63DBDBB8"
-			subtitle: "Increase mana and spell power"
 			rewards: [{
-				id: "C97A0B056A1B485C"
+				id: "75DA03A0FABE9C9C"
 				type: "xp"
 				xp: 250
 			}]
+			subtitle: "Increase mana and spell power"
 			tasks: [{
 				id: "0C059435F1885B7A"
 				item: {
@@ -277,12 +277,12 @@
 			]
 			icon: "irons_spellbooks:fire_rune"
 			id: "532856337B5881F7"
-			subtitle: "Specialize your magic"
 			rewards: [{
 				id: "5DF6AA4D95664E08"
 				type: "xp"
 				xp: 80
 			}]
+			subtitle: "Specialize your magic"
 			tasks: [{
 				id: "1D50B1372D88E983"
 				item: "irons_spellbooks:fire_rune"
@@ -308,12 +308,12 @@
 			]
 			icon: "irons_spellbooks:diamond_spell_book"
 			id: "74D88E2EB829F4B9"
-			subtitle: "You understand the system"
 			rewards: [{
-				id: "DCDFADEDE9784220"
+				id: "5CC8937E8EE1254F"
 				type: "xp"
 				xp: 500
 			}]
+			subtitle: "You understand the system"
 			tasks: [{
 				id: "37B4724B90E61FAA"
 				type: "checkmark"

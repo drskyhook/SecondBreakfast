@@ -5,7 +5,7 @@
 	group: "600AC9ABAC26F3D9"
 	icon: "minecraft:sculk_shrieker"
 	id: "1BF70FB41D45617C"
-	order_index: 15
+	order_index: 8
 	quest_links: [ ]
 	quests: [
 		{

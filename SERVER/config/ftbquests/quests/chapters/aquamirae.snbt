@@ -4,7 +4,7 @@
 	filename: "aquamirae"
 	group: "600AC9ABAC26F3D9"
 	id: "22902E678D95646B"
-	order_index: 9
+	order_index: 2
 	quest_links: [ ]
 	quests: [
 		{
@@ -47,7 +47,7 @@
 			icon: "aquamirae:anglers_fang"
 			id: "7C5272F2574FE929"
 			rewards: [{
-				id: "B367D6A53A7840FE"
+				id: "10AF4D6669BFA403"
 				type: "xp"
 				xp: 80
 			}]
@@ -64,7 +64,7 @@
 			icon: "aquamirae:shell_horn"
 			id: "011E1A8AE6CB0C27"
 			rewards: [{
-				id: "8A99B9DE56104AD8"
+				id: "072F5419CFCF28F3"
 				type: "xp"
 				xp: 80
 			}]
@@ -104,7 +104,7 @@
 			}
 			id: "1C2DF839B0F33A7B"
 			rewards: [{
-				id: "B7D63727098748AF"
+				id: "1D7418E1BE51C786"
 				type: "xp"
 				xp: 80
 			}]
@@ -144,7 +144,7 @@
 			icon: "aquamirae:esca"
 			id: "683245B7D7B2B4A7"
 			rewards: [{
-				id: "E6C61E8D9933461C"
+				id: "73404EA6B15918D7"
 				type: "xp"
 				xp: 80
 			}]
@@ -161,7 +161,7 @@
 			icon: "aquamirae:sea_stew"
 			id: "61E1738CB3FC94C0"
 			rewards: [{
-				id: "A8049E2955EB4556"
+				id: "2595ADDEB9925EB8"
 				type: "xp"
 				xp: 80
 			}]
@@ -178,7 +178,7 @@
 			icon: "aquamirae:poseidons_breakfast"
 			id: "3C97818CBACCC68A"
 			rewards: [{
-				id: "B45E85DB02CA422E"
+				id: "771C386B2F3BA4B7"
 				type: "xp"
 				xp: 80
 			}]

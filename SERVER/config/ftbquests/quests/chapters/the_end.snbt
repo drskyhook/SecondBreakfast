@@ -5,7 +5,7 @@
 	group: "600AC9ABAC26F3D9"
 	icon: "minecraft:end_portal_frame"
 	id: "5EF682D7C1D4DFC9"
-	order_index: 21
+	order_index: 10
 	quest_links: [ ]
 	quests: [
 		{

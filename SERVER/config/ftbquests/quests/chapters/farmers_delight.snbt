@@ -5,7 +5,7 @@
 	group: "600AC9ABAC26F3D9"
 	icon: "farmersdelight:cooking_pot"
 	id: "56B2F774AAA11161"
-	order_index: 10
+	order_index: 3
 	quest_links: [ ]
 	quests: [
 		{
@@ -18,12 +18,12 @@
 			]
 			icon: "farmersdelight:cooking_pot"
 			id: "73DE8732B574765F"
-			subtitle: "Food progression begins here"
 			rewards: [{
 				id: "11D9F7B2E67B4E82"
 				type: "xp"
 				xp: 80
 			}]
+			subtitle: "Food progression begins here"
 			tasks: [{
 				id: "05AFDCD893F8B35E"
 				title: "Begin"
@@ -46,12 +46,12 @@
 				}
 			}
 			id: "0D931BD16B93487E"
-			subtitle: "Core early tool"
 			rewards: [{
-				id: "D777971321BC49D6"
+				id: "1517D6E7956BCE9C"
 				type: "xp"
 				xp: 125
 			}]
+			subtitle: "Core early tool"
 			tasks: [{
 				id: "1C825D02C291D967"
 				item: {
@@ -72,12 +72,12 @@
 			description: ["The cutting board is your food processing station."]
 			icon: "farmersdelight:cutting_board"
 			id: "2C5A3DF2DF1AE408"
-			subtitle: "Make a Cutting Board"
 			rewards: [{
-				id: "AE77F9F257CD4ECF"
+				id: "42FCE303A6803372"
 				type: "xp"
 				xp: 125
 			}]
+			subtitle: "Make a Cutting Board"
 			tasks: [{
 				id: "29039D8BE3B026AA"
 				item: "farmersdelight:cutting_board"
@@ -95,12 +95,12 @@
 			]
 			icon: "farmersdelight:tomato_seeds"
 			id: "40397C169B2125DC"
-			subtitle: "Get Tomato Seeds"
 			rewards: [{
 				id: "53F0AEA107084238"
 				type: "xp"
 				xp: 80
 			}]
+			subtitle: "Get Tomato Seeds"
 			tasks: [{
 				id: "7191CBB5E3B202B5"
 				item: "farmersdelight:tomato_seeds"
@@ -118,12 +118,12 @@
 			]
 			icon: "farmersdelight:rice_panicle"
 			id: "70C46CB9024C0ECA"
-			subtitle: "Rice needs shallow water"
 			rewards: [{
-				id: "DAFD648B2E48478B"
+				id: "48AFF444FEFC8EBB"
 				type: "xp"
 				xp: 80
 			}]
+			subtitle: "Rice needs shallow water"
 			tasks: [{
 				id: "134BB456FD268374"
 				title: "Place Rice Crops"
@@ -140,12 +140,12 @@
 			]
 			icon: "farmersdelight:rich_soil"
 			id: "7A745A865D82CFBD"
-			subtitle: "Obtain Rich Soil"
 			rewards: [{
-				id: "878F5CE0FD0E4B0F"
+				id: "1350F747FB7F022E"
 				type: "xp"
 				xp: 80
 			}]
+			subtitle: "Obtain Rich Soil"
 			tasks: [{
 				id: "297ACA3AE5DB1756"
 				item: "farmersdelight:rich_soil"
@@ -160,12 +160,12 @@
 			description: ["Cooking pots create efficient meals."]
 			icon: "farmersdelight:cooking_pot"
 			id: "0A5D0DC5C6B23609"
-			subtitle: "Place the Cooking Pot"
 			rewards: [{
 				id: "04B1004A0FFF4381"
 				type: "xp"
 				xp: 125
 			}]
+			subtitle: "Place the Cooking Pot"
 			tasks: [{
 				id: "5A2879E64767FCF0"
 				title: "Place Cooking Pot"
@@ -188,12 +188,12 @@
 				}
 			}
 			id: "4B06F5862301A11E"
-			subtitle: "Portable cooking"
 			rewards: [{
 				id: "0FA090823B724F6E"
 				type: "xp"
 				xp: 125
 			}]
+			subtitle: "Portable cooking"
 			tasks: [{
 				id: "4B848D1819B9C826"
 				item: {
@@ -217,12 +217,12 @@
 			]
 			icon: "farmersdelight:stove"
 			id: "3E6FEF0764440F4F"
-			subtitle: "Kitchen upgrade"
 			rewards: [{
 				id: "69A1F75EECEC427F"
 				type: "xp"
 				xp: 125
 			}]
+			subtitle: "Kitchen upgrade"
 			tasks: [{
 				id: "602BAE6CEE1006F3"
 				item: "farmersdelight:stove"
@@ -237,12 +237,12 @@
 			description: ["Make one simple real meal to prove the loop works."]
 			icon: "farmersdelight:cooked_rice"
 			id: "180F232AD99C996B"
-			subtitle: "Make Cooked Rice"
 			rewards: [{
 				id: "19FA1562B5FC41CA"
 				type: "xp"
 				xp: 80
 			}]
+			subtitle: "Make Cooked Rice"
 			tasks: [{
 				id: "16F4132339589F76"
 				item: "farmersdelight:cooked_rice"
@@ -260,12 +260,12 @@
 			]
 			icon: "farmersdelight:roast_chicken"
 			id: "61AAB1558004349A"
-			subtitle: "Shared food"
 			rewards: [{
-				id: "8F9176708D6844F6"
+				id: "33CABCABC89544E5"
 				type: "xp"
 				xp: 80
 			}]
+			subtitle: "Shared food"
 			tasks: [{
 				id: "5C6A9DAE57A7C4A6"
 				title: "Place Roast Chicken"

@@ -5,7 +5,7 @@
 	group: "600AC9ABAC26F3D9"
 	icon: "minecraft:obsidian"
 	id: "4C8D18A2304ED20F"
-	order_index: 22
+	order_index: 11
 	quest_links: [ ]
 	quests: [
 		{

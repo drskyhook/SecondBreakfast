@@ -5,7 +5,7 @@
 	group: "600AC9ABAC26F3D9"
 	icon: "minecraft:dragon_head"
 	id: "798F4A69E9EB5835"
-	order_index: 18
+	order_index: 9
 	quest_links: [ ]
 	quests: [
 		{
@@ -23,12 +23,12 @@
 		}
 		{
 			id: "19819E78CD39328F"
-			subtitle: "Defeat the Sandworm"
 			rewards: [{
 				id: "07CD71441FEC411B"
 				type: "xp"
 				xp: 500
 			}]
+			subtitle: "Defeat the Sandworm"
 			tasks: [{
 				entity: "block_factorys_bosses:sandworm"
 				id: "2613AE0745CB6D6C"
@@ -41,12 +41,12 @@
 		}
 		{
 			id: "18253A63DC2E32BE"
-			subtitle: "Defeat the Yeti"
 			rewards: [{
 				id: "6106870A4DE64904"
 				type: "xp"
 				xp: 80
 			}]
+			subtitle: "Defeat the Yeti"
 			tasks: [{
 				entity: "block_factorys_bosses:yeti"
 				id: "633DA3C17C0E471F"
@@ -59,12 +59,12 @@
 		}
 		{
 			id: "3F6A7F764A728152"
-			subtitle: "Defeat the Underworld Knight"
 			rewards: [{
 				id: "1C2968E7E2264ADF"
 				type: "xp"
 				xp: 80
 			}]
+			subtitle: "Defeat the Underworld Knight"
 			tasks: [{
 				entity: "block_factorys_bosses:underworld_knight"
 				id: "18F4F06CBA2B8CC8"
@@ -77,12 +77,12 @@
 		}
 		{
 			id: "3E7BCACC12C7C353"
-			subtitle: "Defeat the Infernal Dragon"
 			rewards: [{
 				id: "4540F7FCF210432B"
 				type: "xp"
 				xp: 500
 			}]
+			subtitle: "Defeat the Infernal Dragon"
 			tasks: [{
 				entity: "block_factorys_bosses:infernal_dragon"
 				id: "5C53E2CC554459A1"

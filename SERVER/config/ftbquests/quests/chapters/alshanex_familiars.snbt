@@ -4,70 +4,69 @@
 	filename: "alshanex_familiars"
 	group: "600AC9ABAC26F3D9"
 	icon: "alshanex_familiars:familiar_tome"
-	id: "C530CDE589D1CF30"
-	order_index: 12
+	id: "6C29803D1A53AA7D"
+	order_index: 5
 	quest_links: [ ]
 	quests: [
 		{
 			description: [
-				"Tame any familiar to complete this quest through the mod's real advancement.",
+				"Tame any familiar to complete this quest through the mod's real advancement."
 				"Explore the mod's familiar guide before investing in upgrades."
 			]
 			icon: "alshanex_familiars:familiar_tome"
-			id: "ECA5E3C9FF92E445"
-			subtitle: "Meet a familiar"
+			id: "248392291047898A"
 			rewards: [{
-				id: "EDE5976D489E4183"
+				id: "671BCC78716935C8"
 				type: "xp"
 				xp: 125
 			}]
+			subtitle: "Meet a familiar"
 			tasks: [{
 				advancement: "alshanex_familiars:alshanex_familiars/root"
 				criterion: ""
-				id: "88106BEA1EF01D4A"
+				id: "123237749E8BC55B"
 				type: "advancement"
 			}]
 			title: "A Familiar Friend"
 			x: 0.0d
 			y: 0.0d
-		},
+		}
 		{
-			dependencies: ["ECA5E3C9FF92E445"]
 			description: [
-				"Craft a Familiar Bed using wool, planks, and Magic Cloth.",
+				"Craft a Familiar Bed using wool, planks, and Magic Cloth."
 				"A dedicated space for your familiar makes the base feel like home."
 			]
 			icon: "alshanex_familiars:pet_bed"
 			id: "1134CE488FEDBBF9"
-			subtitle: "Craft a Familiar Bed"
 			rewards: [{
 				id: "05A9C20A44A6468E"
 				type: "xp"
 				xp: 80
 			}]
+			subtitle: "Craft a Familiar Bed"
 			tasks: [{
-				id: "E34DC64C595A504C"
+				id: "10292E2931042345"
 				item: "alshanex_familiars:pet_bed"
 				type: "item"
 			}]
 			title: "A Place to Rest"
 			x: 3.0d
 			y: 0.0d
-		},
+		}
 		{
 			dependencies: ["1134CE488FEDBBF9"]
 			description: [
-				"Craft a Familiar House using a Familiar Bed and an Ender Chest.",
+				"Craft a Familiar House using a Familiar Bed and an Ender Chest."
 				"Give your companions their own place at the base."
 			]
 			icon: "alshanex_familiars:familiar_storage"
-			id: "8D105D09D9D8AE95"
-			subtitle: "Build a Familiar House"
+			id: "3E4AD1471A96DD20"
 			rewards: [{
 				id: "55645835E0854D6E"
 				type: "xp"
 				xp: 125
 			}]
+			subtitle: "Build a Familiar House"
 			tasks: [{
 				id: "7978F4869E55A2EF"
 				item: "alshanex_familiars:familiar_storage"
@@ -76,65 +75,65 @@
 			title: "A Home for Familiars"
 			x: 6.0d
 			y: 0.0d
-		},
+		}
 		{
 			description: [
-				"Craft the Shrinkinator with Arcane Essence and a Lightning Rod.",
+				"Craft the Shrinkinator with Arcane Essence and a Lightning Rod."
 				"Explore its recipes for miniature familiar equipment."
 			]
 			icon: "alshanex_familiars:shrinking_station"
 			id: "5123E7D8E279B790"
-			subtitle: "Build a Shrinkinator"
 			rewards: [{
 				id: "684BC085931D472E"
 				type: "xp"
 				xp: 80
 			}]
+			subtitle: "Build a Shrinkinator"
 			tasks: [{
-				id: "B7712E2B33E808CC"
+				id: "5668C451A3E40464"
 				item: "alshanex_familiars:shrinking_station"
 				type: "item"
 			}]
 			title: "Tiny Engineering"
 			x: 9.0d
 			y: 0.0d
-		},
+		}
 		{
 			dependencies: ["5123E7D8E279B790"]
 			description: [
-				"Combine an apple with Arcane Essence to craft a Life Fruit.",
+				"Combine an apple with Arcane Essence to craft a Life Fruit."
 				"This begins the familiar health-upgrade path."
 			]
 			icon: "alshanex_familiars:life_fruit_tier_1"
 			id: "3335F755107206AD"
-			subtitle: "Make a Life Fruit"
 			rewards: [{
 				id: "157063A433E74084"
 				type: "xp"
 				xp: 80
 			}]
+			subtitle: "Make a Life Fruit"
 			tasks: [{
-				id: "C219607F0213BDDC"
+				id: "06731478BB6EAD48"
 				item: "alshanex_familiars:life_fruit_tier_1"
 				type: "item"
 			}]
 			title: "Stronger Together"
 			x: 12.0d
 			y: 0.0d
-		},
+		}
 		{
 			description: [
-				"Feed a Crystal Berry to a familiar to pursue a Memory Fragment.",
+				"Feed a Crystal Berry to a familiar to pursue a Memory Fragment."
 				"Memory Fragments are used in more advanced familiar crafting."
 			]
 			icon: "alshanex_familiars:memory_fragment"
 			id: "5BFA8F9E20926D91"
-			subtitle: "Recover a Memory Fragment"
 			rewards: [{
 				id: "457C7F35B40144B6"
 				type: "xp"
 				xp: 125
 			}]
+			subtitle: "Recover a Memory Fragment"
 			tasks: [{
 				id: "417830C33DDA2C81"
 				item: "alshanex_familiars:memory_fragment"
@@ -143,21 +142,21 @@
 			title: "A Familiar Memory"
 			x: 15.0d
 			y: 0.0d
-		},
+		}
 		{
 			dependencies: ["5BFA8F9E20926D91"]
 			description: [
-				"Combine familiar shards, Memory Fragments, a Diamond Spell Book, Mithril, and Magic Cloth.",
+				"Combine familiar shards, Memory Fragments, a Diamond Spell Book, Mithril, and Magic Cloth."
 				"This is a longer-term goal that connects familiar progression to Iron's Spells."
 			]
 			icon: "alshanex_familiars:familiar_spellbook"
-			id: "8F17B4EB46FDCF43"
-			subtitle: "Craft a Tome of Familiar Alignment"
+			id: "7BEC63F2BB5E027A"
 			rewards: [{
 				id: "72EA2E2F9F57454D"
 				type: "xp"
 				xp: 125
 			}]
+			subtitle: "Craft a Tome of Familiar Alignment"
 			tasks: [{
 				id: "1ECB90521A4394B5"
 				item: "alshanex_familiars:familiar_spellbook"

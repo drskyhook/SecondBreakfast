@@ -14,7 +14,7 @@
 	#Requires no restart every GLM config will be applied at playtime.
 	disableGlobalLootModifier = true
 	#This mode modifies the loot tables before world launch. world restart required
-	disableLootTableModifier = true
+	disableLootTableModifier = false
 	#Debug: Spawns a chest above the opened chest containing the ORIGINAL unmodified loot.
 	debugGLMOriginalChestLoot = false
 	#Disable Title Screen Button.
@@ -40,11 +40,11 @@
 	#Only Blocks Tables
 	blocksOnly = ["unknown_namespace"]
 	#Only Archaeology Tables
-	archaeologyOnly = ["unknown_namespace"]
+	archaeologyOnly = []
 	#Only Advancements Tables
 	advancementsOnly = ["unknown_namespace"]
 	#Only Empty Tables
 	emptyOnly = ["unknown_namespace"]
 	#Only Others Tables (Fallback)
-	othersOnly = []
+	othersOnly = ["unknown_namespace"]
 

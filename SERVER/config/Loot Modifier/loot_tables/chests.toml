@@ -122,7 +122,7 @@
 		removedItemsRandomKeepChance = 6
 		#Quality for randomly kept items from the filters, the rules is same as keptItemsQuality.
 		#Range: 0 ~ 100
-		keptRandomItemsQuality = 35
+		keptRandomItemsQuality = 100
 		#If true, ANY item that cannot be crafted will be automatically protected from the categorical filters (removeArmor, removeTools, etc.).
 		#This protects pure-loot items like Horse Armor, Saddles, or special uncraftable modded rings/artifacts.
 		#Note: This does not affect 'removeAnyCraftableItem' since they do opposite things.

@@ -4,7 +4,7 @@
 	filename: "getting_started"
 	group: "600AC9ABAC26F3D9"
 	id: "4DB6E1BBE43AC43F"
-	order_index: 3
+	order_index: 0
 	quest_links: [ ]
 	quests: [{
 		id: "256ABF46C1F97580"
