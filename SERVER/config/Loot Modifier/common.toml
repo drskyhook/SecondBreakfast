@@ -40,7 +40,7 @@
 	#Only Blocks Tables
 	blocksOnly = ["unknown_namespace"]
 	#Only Archaeology Tables
-	archaeologyOnly = []
+	archaeologyOnly = ["unknown_namespace"]
 	#Only Advancements Tables
 	advancementsOnly = ["unknown_namespace"]
 	#Only Empty Tables

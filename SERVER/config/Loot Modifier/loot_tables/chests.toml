@@ -92,7 +92,7 @@
 		#If true, any item that has special data (NBT tags) by default will be protected from all categorical removals.
 		#This can prevent the accidental removal of complex and special modded items that fell into the categories and might have their rarity set incorrectly.
 		#It's safe to leave this on.
-		protectItemsWithNBT = false
+		protectItemsWithNBT = true
 		#
 		#
 		#For each kept item, means the rest, set the quality.
@@ -101,12 +101,12 @@
 		#At 50% the items quality are changed by half now instead of stack of 64 stone you get stack of 32, with half chance as well.
 		#Remember above 0% all kept items are kept even if their quality becomes zero so they spawn at least once with their original weight, means above 0% you are risk free, no items removed only their quality changed.
 		#Range: 0 ~ 100
-		keptItemsQuality = 35
+		keptItemsQuality = 60
 		#This is for the tagged loots, some items are added through tags instead of fixed item ID,
 		#for instance if the loot is forge:ingots tag this will add a random ingot type to the chest.
 		#These tags are also filtered, so this is their quality slider, rules same as KeptItemsQuality.
 		#Range: 0 ~ 100
-		keptTaggedItemsQuality = 35
+		keptTaggedItemsQuality = 60
 		#
 		#
 		# -- Items Removed By Categorical Removals --
