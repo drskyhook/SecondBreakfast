@@ -1961,7 +1961,7 @@ first update in a while checkin what is here..
 - supplementaries-1.20-3.1.43-forge.jar
 
 
-# 2026-10-15
+# 2026-10-15 #1
 
 ## Server Mods
 
@@ -1982,4 +1982,18 @@ first update in a while checkin what is here..
 ### Removed
 - orcish_depths 1.0.1.jar
 - wandering_orc-1.2.7-1.20.1.jar
+
+
+# 2026-10-15 #2
+
+## Server Mods
+
+### Added
+- darkrtp-forge-1.20.1-1.0.9.jar
+- playtime-1.2.1.jar
+
+## Client Mods
+
+### Added
+- darkrtp-forge-1.20.1-1.0.9.jar
 

@@ -14,6 +14,27 @@ $Locks = @(
     }
 )
 
+# Normalize auto-generated Java Properties timestamps
+$configPath = Join-Path $PSScriptRoot "SERVER\config"
+
+Get-ChildItem $configPath -Filter "*.properties" -Recurse -File |
+    ForEach-Object {
+        $file = $_.FullName
+        $content = [System.IO.File]::ReadAllText($file)
+
+        $normalized = [regex]::Replace(
+            $content,
+            '(?m)^#[A-Z][a-z]{2} [A-Z][a-z]{2} \d{1,2} \d{2}:\d{2}:\d{2} [A-Za-z0-9:+-]+ \d{4}(?=\r?$)',
+            '# Generated configuration'
+        )
+
+        if ($normalized -ne $content) {
+            [System.IO.File]::WriteAllText($file, $normalized)
+            Write-Host "Normalized: $file"
+        }
+    }
+
+    
 function Get-PreviousFile($path) {
     git show "HEAD:$path" 2>$null
 }
