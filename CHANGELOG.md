@@ -1960,3 +1960,26 @@ first update in a while checkin what is here..
 - shippy_ships-1.0.17.6-FORGE-MC-1.20.1.jar
 - supplementaries-1.20-3.1.43-forge.jar
 
+
+# 2026-10-15
+
+## Server Mods
+
+### Added
+- libertyvillagers-2.0.1+forge+1.20.1.jar
+- open-parties-and-claims-forge-1.20.1-0.32.7.jar
+
+### Removed
+- orcish_depths 1.0.1.jar
+- wandering_orc-1.2.7-1.20.1.jar
+
+## Client Mods
+
+### Added
+- libertyvillagers-2.0.1+forge+1.20.1.jar
+- open-parties-and-claims-forge-1.20.1-0.32.7.jar
+
+### Removed
+- orcish_depths 1.0.1.jar
+- wandering_orc-1.2.7-1.20.1.jar
+
