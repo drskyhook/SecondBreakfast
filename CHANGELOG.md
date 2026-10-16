@@ -1997,3 +1997,65 @@ first update in a while checkin what is here..
 ### Added
 - darkrtp-forge-1.20.1-1.0.9.jar
 
+
+# 2026-10-15 #3
+
+## Server Mods
+
+### Added
+- alltheleaks-1.1.4+1.20.1-forge.jar
+- azurelib-neo-1.20.1-3.1.22.jar
+- collective-1.20.1-8.53.jar
+- jei-1.20.1-forge-15.71.0.223.jar
+
+### Removed
+- alltheleaks-1.1.3+1.20.1-forge.jar
+- azurelib-neo-1.20.1-3.1.17.jar
+- collective-1.20.1-8.42.jar
+- jei-1.20.1-forge-15.62.0.219.jar
+
+## Client Mods
+
+### Added
+- alltheleaks-1.1.4+1.20.1-forge.jar
+- azurelib-neo-1.20.1-3.1.22.jar
+- collective-1.20.1-8.53.jar
+- jei-1.20.1-forge-15.71.0.223.jar
+
+### Removed
+- alltheleaks-1.1.3+1.20.1-forge.jar
+- azurelib-neo-1.20.1-3.1.17.jar
+- collective-1.20.1-8.42.jar
+- jei-1.20.1-forge-15.62.0.219.jar
+
+
+# 2026-10-15 #4
+
+## Server Mods
+
+### Added
+- alltheleaks-1.1.4+1.20.1-forge.jar
+- azurelib-neo-1.20.1-3.1.22.jar
+- collective-1.20.1-8.53.jar
+- jei-1.20.1-forge-15.71.0.223.jar
+
+### Removed
+- alltheleaks-1.1.3+1.20.1-forge.jar
+- azurelib-neo-1.20.1-3.1.17.jar
+- collective-1.20.1-8.42.jar
+- jei-1.20.1-forge-15.62.0.219.jar
+
+## Client Mods
+
+### Added
+- alltheleaks-1.1.4+1.20.1-forge.jar
+- azurelib-neo-1.20.1-3.1.22.jar
+- collective-1.20.1-8.53.jar
+- jei-1.20.1-forge-15.71.0.223.jar
+
+### Removed
+- alltheleaks-1.1.3+1.20.1-forge.jar
+- azurelib-neo-1.20.1-3.1.17.jar
+- collective-1.20.1-8.42.jar
+- jei-1.20.1-forge-15.62.0.219.jar
+
